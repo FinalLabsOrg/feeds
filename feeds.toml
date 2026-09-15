@@ -15,6 +15,6 @@ linkSelector = "h2 a"
 [quantamagazine]
 title = "Quanta Magazine Computer Science"
 url = "https://www.quantamagazine.org/computer-science/"
-entrySelector = "div.card__excerpt p"
-titleSelector = "h3"
+entrySelector = "div.card"
+titleSelector = "div.card__content a h3"
 linkSelector = "div.card__content a"
