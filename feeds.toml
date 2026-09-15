@@ -11,3 +11,10 @@ url = "https://en.wikivoyage.org/wiki/Main_Page"
 entrySelector = ".jcarousel-wrapper .jcarousel-item"
 titleSelector = "h2"
 linkSelector = "h2 a"
+
+[quantamagazine]
+title = "Quanta Magazine Computer Science"
+url = "https://www.quantamagazine.org/computer-science/"
+entrySelector = "div.card__excerpt p"
+titleSelector = "h3"
+linkSelector = "div.card__content a"
