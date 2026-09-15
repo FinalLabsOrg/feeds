@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.quantamagazine.org/computer-science/</id>
+    <title>Quanta Magazine Computer Science</title>
+    <updated>2026-09-15T14:59:55.042Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.quantamagazine.org/wp-content/themes/quanta2024/frontend/images/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[0]]></title>
+        <id>https://www.quantamagazine.org/computer-science/</id>
+        <link href="https://www.quantamagazine.org/computer-science/"/>
+        <updated>2026-09-15T14:59:54.579Z</updated>
+        <content type="html"><![CDATA[By revisiting the famous problem — which was controversially solved in the 1970s with the help of computers — mathematicians have gained important new insights into the nature of graphs.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1]]></title>
+        <id>https://www.quantamagazine.org/computer-science/</id>
+        <link href="https://www.quantamagazine.org/computer-science/"/>
+        <updated>2026-09-15T14:59:54.579Z</updated>
+        <content type="html"><![CDATA[In this special live recording from the International Congress of Mathematicians in Philadelphia, July 2026, the central question discussed was what do mathematicians really value about doing mathematics in the first place?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2]]></title>
+        <id>https://www.quantamagazine.org/computer-science/</id>
+        <link href="https://www.quantamagazine.org/computer-science/"/>
+        <updated>2026-09-15T14:59:54.581Z</updated>
+        <content type="html"><![CDATA[The theoretical side of the field doesn’t require computing machines. But many questions would never have been posed without them.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3]]></title>
+        <id>https://www.quantamagazine.org/computer-science/</id>
+        <link href="https://www.quantamagazine.org/computer-science/"/>
+        <updated>2026-09-15T14:59:54.581Z</updated>
+        <content type="html"><![CDATA[Computer scientist Melanie Mitchell discusses why artificial intelligence doesn’t “think” or “reason” like humans, and how we can create better methods for measuring machine cognition.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4]]></title>
+        <id>https://www.quantamagazine.org/computer-science/</id>
+        <link href="https://www.quantamagazine.org/computer-science/"/>
+        <updated>2026-09-15T14:59:54.585Z</updated>
+        <content type="html"><![CDATA[The idea that artificial intelligence can “reason” is more intuitive than ever. But intuitions can be wrong, and the science is far from settled.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5]]></title>
+        <id>https://www.quantamagazine.org/computer-science/</id>
+        <link href="https://www.quantamagazine.org/computer-science/"/>
+        <updated>2026-09-15T14:59:54.585Z</updated>
+        <content type="html"><![CDATA[Shayan Oveis Gharan has won the Abacus Medal for using tools from across mathematics to boost the power of algorithms.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6]]></title>
+        <id>https://www.quantamagazine.org/computer-science/</id>
+        <link href="https://www.quantamagazine.org/computer-science/"/>
+        <updated>2026-09-15T14:59:54.585Z</updated>
+        <content type="html"><![CDATA[When checking that solutions to certain problems are correct, it turns out, you can’t get around the inherent complexity of the quantum world.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7]]></title>
+        <id>https://www.quantamagazine.org/computer-science/</id>
+        <link href="https://www.quantamagazine.org/computer-science/"/>
+        <updated>2026-09-15T14:59:54.586Z</updated>
+        <content type="html"><![CDATA[Do we need quantum computers to fully understand complex chemical reactions? A new result, decades in the making, shows the surprising power of ordinary “classical” machines.]]></content>
+    </entry>
+</feed>
