@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.sciencedirect.com/search?qs=robotics&amp;sortBy=date</id>
-    <title>Science Direct Robotics</title>
-    <updated>2026-09-15T16:33:55.795Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.sciencedirect.com/favicon.ico</icon>
-</feed>
