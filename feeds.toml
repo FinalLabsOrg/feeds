@@ -5,3 +5,10 @@ entrySelector = "article"
 titleSelector = "h2 p"
 linkSelector = "a"
 contentSelector = "section div p"
+
+[sciencedirect-robotics-search]
+title = "Science Direct Robotics"
+url = "https://www.sciencedirect.com/search?qs=robotics&sortBy=date"
+entrySelector = "li.ResultItem"
+titleSelector = "span.anchor-text span"
+linkSelector = "a"
