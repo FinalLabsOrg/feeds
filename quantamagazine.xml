@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.quantamagazine.org/computer-science/</id>
     <title>Quanta Magazine Computer Science</title>
-    <updated>2026-09-15T15:15:06.672Z</updated>
+    <updated>2026-09-15T15:22:48.043Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.quantamagazine.org/wp-content/themes/quanta2024/frontend/images/favicon.png</icon>
     <entry>
@@ -10,529 +10,55 @@
         <id>https://www.quantamagazine.org/tag/graph-theory/</id>
         <link href="https://www.quantamagazine.org/tag/graph-theory/"/>
         <updated>2026-09-15T15:15:06.129Z</updated>
-        <content type="html"><![CDATA[<div class="card__image mr1 mb1" data-toggle-hover="card">
-                <a href="https://www.quantamagazine.org/the-four-color-theorem-gets-a-rare-new-proof-20260910/" class="relative">
-                    <span class="screen-reader-text">The Four-Color Theorem Gets a Rare New Proof</span>
-                    <div class="image mx0 relative image--standard">
-                        <div class="image__inner absolute fit-x is-loaded">
-                            <img width="520" height="292" src="https://www.quantamagazine.org/wp-content/uploads/2026/09/4C-Theorem-cr-Vico-Santos-Default.webp" class="absolute fit-x fill-h fill-v mxa" alt="" decoding="async" fetchpriority="high" srcset="https://www.quantamagazine.org/wp-content/uploads/2026/09/4C-Theorem-cr-Vico-Santos-Default.webp 520w, https://www.quantamagazine.org/wp-content/uploads/2026/09/4C-Theorem-cr-Vico-Santos-Default-98x55.webp 98w" sizes="(max-width: 520px) 100vw, 520px">                        </div>
-                    </div>
-                                    </a>
-            </div>
-                <div class="card__content ">
-            <div class="mb1 pb025 mt0 h6t mbold card__kicker">
-                <a class=" theme__text--underline theme__accent uppercase tracking-wide-3" href="/tag/graph-theory/">graph theory</a>            </div>
-            <a href="https://www.quantamagazine.org/the-four-color-theorem-gets-a-rare-new-proof-20260910/" data-toggle-hover="card">
-                <h3 class="card__title noe mv0 transition--color h2t s:float-left s:w-50p hover:text-gray-767">
-                    The Four-Color Theorem Gets a Rare New Proof                </h3>
-            </a>
-            <div class="card__meta mb0 mt025 flex flex-items-center flex-wrap">
-    
-    <div class="byline relative flex flex-items-start merriweather mt025 mb025 mr1 h6t w-fit gray9 hover:text-gray-1a1 theme__text-hover">
-        <em class="gray4 byline__by mr075">By </em>
-        <a href="https://www.quantamagazine.org/authors/gregorybarber/">
-            <span class="byline__author small uppercase kern light">Gregory Barber</span>
-        </a>
-            </div>
-        <span class="divider theme__divider mr1 relative h6"></span>
-                <div class="card-date h6 flex flex-items-center mv05">
-            <div class="uppercase mr1 kern small gray9 hover:text-gray-1a1">September 10, 2026</div>
-            <span class="divider theme__divider mr1 relative"></span>
-        </div>
-            <div class="card__actions h6 flex flex-items-center mv05 text-gray">
-        <div class="comments-button mr05 flex flex-items-center gray3 theme__accent-hover " data-name="comment-bubble">
-    <a href="https://www.quantamagazine.org/the-four-color-theorem-gets-a-rare-new-proof-20260910/#comments" class="flex flex-items-center pangram">
-        <svg viewBox="0 0 50 50" enable-background="new 0 0 50 50" xmlns="http://www.w3.org/2000/svg" class=""><title>Comment</title><path fill="currentColor" d="M9.4 4.2h31.2c8.6 0 9.4 7 9.4 15.6s-.7 15.6-9.4 15.6h-2.2l-.9 9.4-18.8-9.4H9.4c-8.6 0-9.4-7-9.4-15.6S.7 4.2 9.4 4.2z"></path></svg>            <div>
-                <span class="comments-button__count theme__text ml075 small mbold disqus-comment-count" data-disqus-identifier="166722 https://www.quantamagazine.org/?p=166722"></span>
-            </div>
-                </a>
-</div>
-        <span class="divider theme__divider mh075 relative"></span>
-        <div class="relative">
-    <button class="bookmark-button gray3 mh05 flex flex-items-center theme__accent-hover " data-toggle-hover="tooltip" data-id="166722" data-active-class="" aria-expanded="false">
-        <svg class="icon" viewBox="0 0 50 50" enable-background="new 0 0 50 50" xmlns="http://www.w3.org/2000/svg"><title>Save Article</title><path fill="currentColor" d="M2.1 0h45.8v50L25.5 37.5 2.1 50V0z"></path></svg>    </button>
-    <div class="q-tooltip hidden force-mobile-placement w-32 ml-n16 -top-10">
-    <div class="q-tooltip-content">
-        <div class="q-tooltip-arrow -bottom-3"></div>
-        <div class="q-tooltip-inner py-1 pl-1" role="tooltip">
-                            <div class="h6t relative z1 uppercase kern--w mx025">
-                    <span class="small no-wrap">Read Later</span>
-                </div>
-                        </div>
-    </div>
-</div>
-</div>
-    </div>
-</div>
-            <div class="card__excerpt h5 pangram gray4 mb4 mt025">
-                <p>By revisiting the famous problem — which was controversially solved in the 1970s with the help of computers — mathematicians have gained important new insights into the nature of graphs.</p>            </div>
-        </div>]]></content>
+        <content type="html"><![CDATA[By revisiting the famous problem — which was controversially solved in the 1970s with the help of computers — mathematicians have gained important new insights into the nature of graphs.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Live from ICM 2026: What Is Math For in the Age of AI?]]></title>
         <id>https://www.quantamagazine.org/tag/the-joy-of-why/</id>
         <link href="https://www.quantamagazine.org/tag/the-joy-of-why/"/>
         <updated>2026-09-15T15:15:06.131Z</updated>
-        <content type="html"><![CDATA[<div class="card__image mr1 mb1" data-toggle-hover="card">
-                <a href="https://www.quantamagazine.org/live-from-icm-2026-what-is-math-for-in-the-age-of-ai-20260903/" class="relative">
-                    <span class="screen-reader-text">Live from ICM 2026: What Is Math For in the Age of AI?</span>
-                    <div class="image mx0 relative image--standard">
-                        <div class="image__inner absolute fit-x is-loaded">
-                            <img width="520" height="292" src="https://www.quantamagazine.org/wp-content/uploads/2026/09/JOW-S5-E7-Live-cr-ChanelleNibbelink-Default-NO-LOGO.jpg" class="absolute fit-x fill-h fill-v mxa" alt="" decoding="async" srcset="https://www.quantamagazine.org/wp-content/uploads/2026/09/JOW-S5-E7-Live-cr-ChanelleNibbelink-Default-NO-LOGO.jpg 520w, https://www.quantamagazine.org/wp-content/uploads/2026/09/JOW-S5-E7-Live-cr-ChanelleNibbelink-Default-NO-LOGO-98x55.jpg 98w" sizes="(max-width: 520px) 100vw, 520px">                        </div>
-                    </div>
-                                    </a>
-            </div>
-                <div class="card__content ">
-            <div class="mb1 pb025 mt0 h6t mbold card__kicker">
-                <a class=" theme__text--underline theme__accent uppercase tracking-wide-3" href="/tag/the-joy-of-why/">The Joy of Why</a>            </div>
-            <a href="https://www.quantamagazine.org/live-from-icm-2026-what-is-math-for-in-the-age-of-ai-20260903/" data-toggle-hover="card">
-                <h3 class="card__title noe mv0 transition--color h2t s:float-left s:w-50p hover:text-gray-767">
-                    Live from ICM 2026: What Is Math For in the Age of AI?                </h3>
-            </a>
-            <div class="card__meta mb0 mt025 flex flex-items-center flex-wrap">
-    
-    <div class="byline relative flex flex-items-start merriweather mt025 mb025 mr1 h6t w-fit gray9 hover:text-gray-1a1 theme__text-hover">
-        <em class="gray4 byline__by mr075">By </em>
-        <a href="https://www.quantamagazine.org/authors/jannalevin/">
-            <span class="byline__author small uppercase kern light">Janna Levin</span>
-        </a>
-                    <span class="text-gray-767 italic pointer hover:text-gray-1a1 transition" data-type="author" data-toggle-hover="tooltip" aria-expanded=""> +1 author</span>
-            <div class="q-tooltip hidden force-mobile-placement min-w-50 bottom-100-plus-10-px ml-n14">
-    <div class="q-tooltip-content">
-        <div class="q-tooltip-arrow -bottom-3 left-1/2"></div>
-        <div class="q-tooltip-inner py-1 pl-1" role="tooltip">
-                            <div class="byline__tooltip__author color-transition relative mx025 h6t" data-toggle-hover="author">
-                    <a class="uppercase kern--w merriweather hover:text-gray-767 transition--color" href="https://www.quantamagazine.org/authors/stevenstrogatz/">
-                        <span class="small no-wrap">Steven Strogatz</span>
-                    </a>
-                </div>
-                        </div>
-    </div>
-</div>
-            </div>
-        <span class="divider theme__divider mr1 relative h6"></span>
-                <div class="card-date h6 flex flex-items-center mv05">
-            <div class="uppercase mr1 kern small gray9 hover:text-gray-1a1">September 3, 2026</div>
-            <span class="divider theme__divider mr1 relative"></span>
-        </div>
-            <div class="card__actions h6 flex flex-items-center mv05 text-gray">
-        <div class="comments-button mr05 flex flex-items-center gray3 theme__accent-hover " data-name="comment-bubble">
-    <a href="https://www.quantamagazine.org/live-from-icm-2026-what-is-math-for-in-the-age-of-ai-20260903/#comments" class="flex flex-items-center pangram">
-        <svg viewBox="0 0 50 50" enable-background="new 0 0 50 50" xmlns="http://www.w3.org/2000/svg" class=""><title>Comment</title><path fill="currentColor" d="M9.4 4.2h31.2c8.6 0 9.4 7 9.4 15.6s-.7 15.6-9.4 15.6h-2.2l-.9 9.4-18.8-9.4H9.4c-8.6 0-9.4-7-9.4-15.6S.7 4.2 9.4 4.2z"></path></svg>            <div>
-                <span class="comments-button__count theme__text ml075 small mbold disqus-comment-count" data-disqus-identifier="166452 https://www.quantamagazine.org/?p=166452"></span>
-            </div>
-                </a>
-</div>
-        <span class="divider theme__divider mh075 relative"></span>
-        <div class="relative">
-    <button class="bookmark-button gray3 mh05 flex flex-items-center theme__accent-hover " data-toggle-hover="tooltip" data-id="166452" data-active-class="" aria-expanded="false">
-        <svg class="icon" viewBox="0 0 50 50" enable-background="new 0 0 50 50" xmlns="http://www.w3.org/2000/svg"><title>Save Article</title><path fill="currentColor" d="M2.1 0h45.8v50L25.5 37.5 2.1 50V0z"></path></svg>    </button>
-    <div class="q-tooltip hidden force-mobile-placement w-32 ml-n16 -top-10">
-    <div class="q-tooltip-content">
-        <div class="q-tooltip-arrow -bottom-3"></div>
-        <div class="q-tooltip-inner py-1 pl-1" role="tooltip">
-                            <div class="h6t relative z1 uppercase kern--w mx025">
-                    <span class="small no-wrap">Read Later</span>
-                </div>
-                        </div>
-    </div>
-</div>
-</div>
-    </div>
-</div>
-            <div class="card__excerpt h5 pangram gray4 mb4 mt025">
-                <p>In this special live recording from the International Congress of Mathematicians in Philadelphia, July 2026, the central question discussed was what do mathematicians really value about doing mathematics in the first place?</p>            </div>
-        </div>]]></content>
+        <content type="html"><![CDATA[In this special live recording from the International Congress of Mathematicians in Philadelphia, July 2026, the central question discussed was what do mathematicians really value about doing mathematics in the first place?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Does Computer Science Need Computers?]]></title>
         <id>https://www.quantamagazine.org/tag/qualia/</id>
         <link href="https://www.quantamagazine.org/tag/qualia/"/>
         <updated>2026-09-15T15:15:06.132Z</updated>
-        <content type="html"><![CDATA[<div class="card__image mr1 mb1" data-toggle-hover="card">
-                <a href="https://www.quantamagazine.org/does-computer-science-need-computers-20260828/" class="relative">
-                    <span class="screen-reader-text">Does Computer Science Need Computers?</span>
-                    <div class="image mx0 relative image--standard">
-                        <div class="image__inner absolute fit-x is-loaded">
-                            <img width="520" height="292" src="https://www.quantamagazine.org/wp-content/uploads/2026/08/Qualia_TheoreticalCS-crKristinaArmitage-Default.webp" class="absolute fit-x fill-h fill-v mxa" alt="" decoding="async" srcset="https://www.quantamagazine.org/wp-content/uploads/2026/08/Qualia_TheoreticalCS-crKristinaArmitage-Default.webp 520w, https://www.quantamagazine.org/wp-content/uploads/2026/08/Qualia_TheoreticalCS-crKristinaArmitage-Default-98x55.webp 98w" sizes="(max-width: 520px) 100vw, 520px">                        </div>
-                    </div>
-                                    </a>
-            </div>
-                <div class="card__content ">
-            <div class="mb1 pb025 mt0 h6t mbold card__kicker">
-                <a class=" theme__text--underline theme__accent uppercase tracking-wide-3" href="/tag/qualia/">Qualia</a>            </div>
-            <a href="https://www.quantamagazine.org/does-computer-science-need-computers-20260828/" data-toggle-hover="card">
-                <h3 class="card__title noe mv0 transition--color h2t s:float-left s:w-50p hover:text-gray-767">
-                    Does Computer Science Need Computers?                </h3>
-            </a>
-            <div class="card__meta mb0 mt025 flex flex-items-center flex-wrap">
-    
-    <div class="byline relative flex flex-items-start merriweather mt025 mb025 mr1 h6t w-fit gray9 hover:text-gray-1a1 theme__text-hover">
-        <em class="gray4 byline__by mr075">By </em>
-        <a href="https://www.quantamagazine.org/authors/brubaker_ben/">
-            <span class="byline__author small uppercase kern light">Ben Brubaker</span>
-        </a>
-            </div>
-        <span class="divider theme__divider mr1 relative h6"></span>
-                <div class="card-date h6 flex flex-items-center mv05">
-            <div class="uppercase mr1 kern small gray9 hover:text-gray-1a1">August 28, 2026</div>
-            <span class="divider theme__divider mr1 relative"></span>
-        </div>
-            <div class="card__actions h6 flex flex-items-center mv05 text-gray">
-        <div class="comments-button mr05 flex flex-items-center gray3 theme__accent-hover " data-name="comment-bubble">
-    <a href="https://www.quantamagazine.org/does-computer-science-need-computers-20260828/#comments" class="flex flex-items-center pangram">
-        <svg viewBox="0 0 50 50" enable-background="new 0 0 50 50" xmlns="http://www.w3.org/2000/svg" class=""><title>Comment</title><path fill="currentColor" d="M9.4 4.2h31.2c8.6 0 9.4 7 9.4 15.6s-.7 15.6-9.4 15.6h-2.2l-.9 9.4-18.8-9.4H9.4c-8.6 0-9.4-7-9.4-15.6S.7 4.2 9.4 4.2z"></path></svg>            <div>
-                <span class="comments-button__count theme__text ml075 small mbold disqus-comment-count" data-disqus-identifier="166297 https://www.quantamagazine.org/?p=166297"></span>
-            </div>
-                </a>
-</div>
-        <span class="divider theme__divider mh075 relative"></span>
-        <div class="relative">
-    <button class="bookmark-button gray3 mh05 flex flex-items-center theme__accent-hover " data-toggle-hover="tooltip" data-id="166297" data-active-class="" aria-expanded="false">
-        <svg class="icon" viewBox="0 0 50 50" enable-background="new 0 0 50 50" xmlns="http://www.w3.org/2000/svg"><title>Save Article</title><path fill="currentColor" d="M2.1 0h45.8v50L25.5 37.5 2.1 50V0z"></path></svg>    </button>
-    <div class="q-tooltip hidden force-mobile-placement w-32 ml-n16 -top-10">
-    <div class="q-tooltip-content">
-        <div class="q-tooltip-arrow -bottom-3"></div>
-        <div class="q-tooltip-inner py-1 pl-1" role="tooltip">
-                            <div class="h6t relative z1 uppercase kern--w mx025">
-                    <span class="small no-wrap">Read Later</span>
-                </div>
-                        </div>
-    </div>
-</div>
-</div>
-    </div>
-</div>
-            <div class="card__excerpt h5 pangram gray4 mb4 mt025">
-                <p>The theoretical side of the field doesn’t require computing machines. But many questions would never have been posed without them. </p>            </div>
-        </div>]]></content>
+        <content type="html"><![CDATA[The theoretical side of the field doesn’t require computing machines. But many questions would never have been posed without them.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Are We Thinking Correctly About AI Intelligence?]]></title>
         <id>https://www.quantamagazine.org/tag/the-joy-of-why/</id>
         <link href="https://www.quantamagazine.org/tag/the-joy-of-why/"/>
-        <updated>2026-09-15T15:15:06.134Z</updated>
-        <content type="html"><![CDATA[<div class="card__image mr1 mb1" data-toggle-hover="card">
-                <a href="https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/" class="relative">
-                    <span class="screen-reader-text">Are We Thinking Correctly About AI Intelligence?</span>
-                    <div class="image mx0 relative image--standard">
-                        <div class="image__inner absolute fit-x is-loaded">
-                            <img width="520" height="292" src="https://www.quantamagazine.org/wp-content/uploads/2026/08/JOW-S5-E6-cr-Chanelle-Nibbelink-Default.webp" class="absolute fit-x fill-h fill-v mxa" alt="Scientists investigating a neural network mechanical brain" decoding="async" srcset="https://www.quantamagazine.org/wp-content/uploads/2026/08/JOW-S5-E6-cr-Chanelle-Nibbelink-Default.webp 520w, https://www.quantamagazine.org/wp-content/uploads/2026/08/JOW-S5-E6-cr-Chanelle-Nibbelink-Default-98x55.webp 98w" sizes="(max-width: 520px) 100vw, 520px">                        </div>
-                    </div>
-                                    </a>
-            </div>
-                <div class="card__content ">
-            <div class="mb1 pb025 mt0 h6t mbold card__kicker">
-                <a class=" theme__text--underline theme__accent uppercase tracking-wide-3" href="/tag/the-joy-of-why/">The Joy of Why</a>            </div>
-            <a href="https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/" data-toggle-hover="card">
-                <h3 class="card__title noe mv0 transition--color h2t s:float-left s:w-50p hover:text-gray-767">
-                    Are We Thinking Correctly About AI Intelligence?                </h3>
-            </a>
-            <div class="card__meta mb0 mt025 flex flex-items-center flex-wrap">
-    
-    <div class="byline relative flex flex-items-start merriweather mt025 mb025 mr1 h6t w-fit gray9 hover:text-gray-1a1 theme__text-hover">
-        <em class="gray4 byline__by mr075">By </em>
-        <a href="https://www.quantamagazine.org/authors/stevenstrogatz/">
-            <span class="byline__author small uppercase kern light">Steven Strogatz</span>
-        </a>
-                    <span class="text-gray-767 italic pointer hover:text-gray-1a1 transition" data-type="author" data-toggle-hover="tooltip" aria-expanded=""> +1 author</span>
-            <div class="q-tooltip hidden force-mobile-placement min-w-50 bottom-100-plus-10-px ml-n14">
-    <div class="q-tooltip-content">
-        <div class="q-tooltip-arrow -bottom-3 left-1/2"></div>
-        <div class="q-tooltip-inner py-1 pl-1" role="tooltip">
-                            <div class="byline__tooltip__author color-transition relative mx025 h6t" data-toggle-hover="author">
-                    <a class="uppercase kern--w merriweather hover:text-gray-767 transition--color" href="https://www.quantamagazine.org/authors/jannalevin/">
-                        <span class="small no-wrap">Janna Levin</span>
-                    </a>
-                </div>
-                        </div>
-    </div>
-</div>
-            </div>
-        <span class="divider theme__divider mr1 relative h6"></span>
-                <div class="card-date h6 flex flex-items-center mv05">
-            <div class="uppercase mr1 kern small gray9 hover:text-gray-1a1">August 20, 2026</div>
-            <span class="divider theme__divider mr1 relative"></span>
-        </div>
-            <div class="card__actions h6 flex flex-items-center mv05 text-gray">
-        <div class="comments-button mr05 flex flex-items-center gray3 theme__accent-hover " data-name="comment-bubble">
-    <a href="https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/#comments" class="flex flex-items-center pangram">
-        <svg viewBox="0 0 50 50" enable-background="new 0 0 50 50" xmlns="http://www.w3.org/2000/svg" class=""><title>Comment</title><path fill="currentColor" d="M9.4 4.2h31.2c8.6 0 9.4 7 9.4 15.6s-.7 15.6-9.4 15.6h-2.2l-.9 9.4-18.8-9.4H9.4c-8.6 0-9.4-7-9.4-15.6S.7 4.2 9.4 4.2z"></path></svg>            <div>
-                <span class="comments-button__count theme__text ml075 small mbold disqus-comment-count" data-disqus-identifier="165961 https://www.quantamagazine.org/?p=165961"></span>
-            </div>
-                </a>
-</div>
-        <span class="divider theme__divider mh075 relative"></span>
-        <div class="relative">
-    <button class="bookmark-button gray3 mh05 flex flex-items-center theme__accent-hover " data-toggle-hover="tooltip" data-id="165961" data-active-class="" aria-expanded="false">
-        <svg class="icon" viewBox="0 0 50 50" enable-background="new 0 0 50 50" xmlns="http://www.w3.org/2000/svg"><title>Save Article</title><path fill="currentColor" d="M2.1 0h45.8v50L25.5 37.5 2.1 50V0z"></path></svg>    </button>
-    <div class="q-tooltip hidden force-mobile-placement w-32 ml-n16 -top-10">
-    <div class="q-tooltip-content">
-        <div class="q-tooltip-arrow -bottom-3"></div>
-        <div class="q-tooltip-inner py-1 pl-1" role="tooltip">
-                            <div class="h6t relative z1 uppercase kern--w mx025">
-                    <span class="small no-wrap">Read Later</span>
-                </div>
-                        </div>
-    </div>
-</div>
-</div>
-    </div>
-</div>
-            <div class="card__excerpt h5 pangram gray4 mb4 mt025">
-                <p>Computer scientist Melanie Mitchell discusses why artificial intelligence doesn’t “think” or “reason” like humans, and how we can create better methods for measuring machine cognition.</p>            </div>
-        </div>]]></content>
+        <updated>2026-09-15T15:15:06.131Z</updated>
+        <content type="html"><![CDATA[Computer scientist Melanie Mitchell discusses why artificial intelligence doesn’t “think” or “reason” like humans, and how we can create better methods for measuring machine cognition.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Is AI Reasoning Right for the Wrong Reasons?]]></title>
         <id>https://www.quantamagazine.org/tag/qualia/</id>
         <link href="https://www.quantamagazine.org/tag/qualia/"/>
-        <updated>2026-09-15T15:15:06.135Z</updated>
-        <content type="html"><![CDATA[<div class="card__image mr1 mb1" data-toggle-hover="card">
-                <a href="https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/" class="relative">
-                    <span class="screen-reader-text">Is AI Reasoning Right for the Wrong Reasons?</span>
-                    <div class="image mx0 relative image--standard">
-                        <div class="image__inner absolute fit-x is-loaded">
-                            <img width="520" height="292" src="https://www.quantamagazine.org/wp-content/uploads/2026/07/AI-Reasoning-cr.Celsius-Pictor-Default.webp" class="absolute fit-x fill-h fill-v mxa" alt="" decoding="async" srcset="https://www.quantamagazine.org/wp-content/uploads/2026/07/AI-Reasoning-cr.Celsius-Pictor-Default.webp 520w, https://www.quantamagazine.org/wp-content/uploads/2026/07/AI-Reasoning-cr.Celsius-Pictor-Default-98x55.webp 98w" sizes="(max-width: 520px) 100vw, 520px">                        </div>
-                    </div>
-                                    </a>
-            </div>
-                <div class="card__content ">
-            <div class="mb1 pb025 mt0 h6t mbold card__kicker">
-                <a class=" theme__text--underline theme__accent uppercase tracking-wide-3" href="/tag/qualia/">Qualia</a>            </div>
-            <a href="https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/" data-toggle-hover="card">
-                <h3 class="card__title noe mv0 transition--color h2t s:float-left s:w-50p hover:text-gray-767">
-                    Is AI Reasoning Right for the Wrong Reasons?                </h3>
-            </a>
-            <div class="card__meta mb0 mt025 flex flex-items-center flex-wrap">
-    
-    <div class="byline relative flex flex-items-start merriweather mt025 mb025 mr1 h6t w-fit gray9 hover:text-gray-1a1 theme__text-hover">
-        <em class="gray4 byline__by mr075">By </em>
-        <a href="https://www.quantamagazine.org/authors/john-pavlus/">
-            <span class="byline__author small uppercase kern light">John Pavlus</span>
-        </a>
-            </div>
-        <span class="divider theme__divider mr1 relative h6"></span>
-                <div class="card-date h6 flex flex-items-center mv05">
-            <div class="uppercase mr1 kern small gray9 hover:text-gray-1a1">July 31, 2026</div>
-            <span class="divider theme__divider mr1 relative"></span>
-        </div>
-            <div class="card__actions h6 flex flex-items-center mv05 text-gray">
-        <div class="comments-button mr05 flex flex-items-center gray3 theme__accent-hover " data-name="comment-bubble">
-    <a href="https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/#comments" class="flex flex-items-center pangram">
-        <svg viewBox="0 0 50 50" enable-background="new 0 0 50 50" xmlns="http://www.w3.org/2000/svg" class=""><title>Comment</title><path fill="currentColor" d="M9.4 4.2h31.2c8.6 0 9.4 7 9.4 15.6s-.7 15.6-9.4 15.6h-2.2l-.9 9.4-18.8-9.4H9.4c-8.6 0-9.4-7-9.4-15.6S.7 4.2 9.4 4.2z"></path></svg>            <div>
-                <span class="comments-button__count theme__text ml075 small mbold disqus-comment-count" data-disqus-identifier="165277 https://www.quantamagazine.org/?p=165277"></span>
-            </div>
-                </a>
-</div>
-        <span class="divider theme__divider mh075 relative"></span>
-        <div class="relative">
-    <button class="bookmark-button gray3 mh05 flex flex-items-center theme__accent-hover " data-toggle-hover="tooltip" data-id="165277" data-active-class="" aria-expanded="false">
-        <svg class="icon" viewBox="0 0 50 50" enable-background="new 0 0 50 50" xmlns="http://www.w3.org/2000/svg"><title>Save Article</title><path fill="currentColor" d="M2.1 0h45.8v50L25.5 37.5 2.1 50V0z"></path></svg>    </button>
-    <div class="q-tooltip hidden force-mobile-placement w-32 ml-n16 -top-10">
-    <div class="q-tooltip-content">
-        <div class="q-tooltip-arrow -bottom-3"></div>
-        <div class="q-tooltip-inner py-1 pl-1" role="tooltip">
-                            <div class="h6t relative z1 uppercase kern--w mx025">
-                    <span class="small no-wrap">Read Later</span>
-                </div>
-                        </div>
-    </div>
-</div>
-</div>
-    </div>
-</div>
-            <div class="card__excerpt h5 pangram gray4 mb4 mt025">
-                <p>The idea that artificial intelligence can “reason” is more intuitive than ever. But intuitions can be wrong, and the science is far from settled. </p>            </div>
-        </div>]]></content>
+        <updated>2026-09-15T15:15:06.132Z</updated>
+        <content type="html"><![CDATA[The idea that artificial intelligence can “reason” is more intuitive than ever. But intuitions can be wrong, and the science is far from settled.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[A Master of the Traveling Salesperson Problem Finds His Own Path]]></title>
         <id>https://www.quantamagazine.org/tag/2026-fields-and-abacus-medals/</id>
         <link href="https://www.quantamagazine.org/tag/2026-fields-and-abacus-medals/"/>
         <updated>2026-09-15T15:15:06.137Z</updated>
-        <content type="html"><![CDATA[<div class="card__image mr1 mb1" data-toggle-hover="card">
-                <a href="https://www.quantamagazine.org/shayan-oveis-gharan-wins-2026-imu-abacus-medal-20260723/" class="relative">
-                    <span class="screen-reader-text">A Master of the Traveling Salesperson Problem Finds His Own Path</span>
-                    <div class="image mx0 relative image--standard">
-                        <div class="image__inner absolute fit-x is-loaded">
-                            <img width="520" height="292" src="https://www.quantamagazine.org/wp-content/uploads/2026/07/Shayan-Gharan-crChona-Kasinger-V2-Default.webp" class="absolute fit-x fill-h fill-v mxa" alt="" decoding="async" srcset="https://www.quantamagazine.org/wp-content/uploads/2026/07/Shayan-Gharan-crChona-Kasinger-V2-Default.webp 520w, https://www.quantamagazine.org/wp-content/uploads/2026/07/Shayan-Gharan-crChona-Kasinger-V2-Default-98x55.webp 98w" sizes="(max-width: 520px) 100vw, 520px">                        </div>
-                    </div>
-                                    </a>
-            </div>
-                <div class="card__content ">
-            <div class="mb1 pb025 mt0 h6t mbold card__kicker">
-                <a class=" theme__text--underline theme__accent uppercase tracking-wide-3" href="/tag/2026-fields-and-abacus-medals/">2026 Fields and Abacus Medals</a>            </div>
-            <a href="https://www.quantamagazine.org/shayan-oveis-gharan-wins-2026-imu-abacus-medal-20260723/" data-toggle-hover="card">
-                <h3 class="card__title noe mv0 transition--color h2t s:float-left s:w-50p hover:text-gray-767">
-                    A Master of the Traveling Salesperson Problem Finds His Own Path                </h3>
-            </a>
-            <div class="card__meta mb0 mt025 flex flex-items-center flex-wrap">
-    
-    <div class="byline relative flex flex-items-start merriweather mt025 mb025 mr1 h6t w-fit gray9 hover:text-gray-1a1 theme__text-hover">
-        <em class="gray4 byline__by mr075">By </em>
-        <a href="https://www.quantamagazine.org/authors/brubaker_ben/">
-            <span class="byline__author small uppercase kern light">Ben Brubaker</span>
-        </a>
-            </div>
-        <span class="divider theme__divider mr1 relative h6"></span>
-                <div class="card-date h6 flex flex-items-center mv05">
-            <div class="uppercase mr1 kern small gray9 hover:text-gray-1a1">July 23, 2026</div>
-            <span class="divider theme__divider mr1 relative"></span>
-        </div>
-            <div class="card__actions h6 flex flex-items-center mv05 text-gray">
-        <div class="comments-button mr05 flex flex-items-center gray3 theme__accent-hover " data-name="comment-bubble">
-    <a href="https://www.quantamagazine.org/shayan-oveis-gharan-wins-2026-imu-abacus-medal-20260723/#comments" class="flex flex-items-center pangram">
-        <svg viewBox="0 0 50 50" enable-background="new 0 0 50 50" xmlns="http://www.w3.org/2000/svg" class=""><title>Comment</title><path fill="currentColor" d="M9.4 4.2h31.2c8.6 0 9.4 7 9.4 15.6s-.7 15.6-9.4 15.6h-2.2l-.9 9.4-18.8-9.4H9.4c-8.6 0-9.4-7-9.4-15.6S.7 4.2 9.4 4.2z"></path></svg>            <div>
-                <span class="comments-button__count theme__text ml075 small mbold disqus-comment-count" data-disqus-identifier="164352 https://www.quantamagazine.org/?p=164352"></span>
-            </div>
-                </a>
-</div>
-        <span class="divider theme__divider mh075 relative"></span>
-        <div class="relative">
-    <button class="bookmark-button gray3 mh05 flex flex-items-center theme__accent-hover " data-toggle-hover="tooltip" data-id="164352" data-active-class="" aria-expanded="false">
-        <svg class="icon" viewBox="0 0 50 50" enable-background="new 0 0 50 50" xmlns="http://www.w3.org/2000/svg"><title>Save Article</title><path fill="currentColor" d="M2.1 0h45.8v50L25.5 37.5 2.1 50V0z"></path></svg>    </button>
-    <div class="q-tooltip hidden force-mobile-placement w-32 ml-n16 -top-10">
-    <div class="q-tooltip-content">
-        <div class="q-tooltip-arrow -bottom-3"></div>
-        <div class="q-tooltip-inner py-1 pl-1" role="tooltip">
-                            <div class="h6t relative z1 uppercase kern--w mx025">
-                    <span class="small no-wrap">Read Later</span>
-                </div>
-                        </div>
-    </div>
-</div>
-</div>
-    </div>
-</div>
-            <div class="card__excerpt h5 pangram gray4 mb4 mt025">
-                <p>Shayan Oveis Gharan has won the Abacus Medal for using tools from across mathematics to boost the power of algorithms.</p>            </div>
-        </div>]]></content>
+        <content type="html"><![CDATA[Shayan Oveis Gharan has won the Abacus Medal for using tools from across mathematics to boost the power of algorithms.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Researchers Reveal the Power of ‘Quantum Proofs’]]></title>
         <id>https://www.quantamagazine.org/tag/computational-complexity/</id>
         <link href="https://www.quantamagazine.org/tag/computational-complexity/"/>
         <updated>2026-09-15T15:15:06.138Z</updated>
-        <content type="html"><![CDATA[<div class="card__image mr1 mb1" data-toggle-hover="card">
-                <a href="https://www.quantamagazine.org/researchers-reveal-the-power-of-quantum-proofs-20260706/" class="relative">
-                    <span class="screen-reader-text">Researchers Reveal the Power of ‘Quantum Proofs’</span>
-                    <div class="image mx0 relative image--standard">
-                        <div class="image__inner absolute fit-x is-loaded">
-                            <img width="520" height="292" src="https://www.quantamagazine.org/wp-content/uploads/2026/07/QuantumProof-cr-Ada-Zejun-Shen-Default.webp" class="absolute fit-x fill-h fill-v mxa" alt="" decoding="async" srcset="https://www.quantamagazine.org/wp-content/uploads/2026/07/QuantumProof-cr-Ada-Zejun-Shen-Default.webp 520w, https://www.quantamagazine.org/wp-content/uploads/2026/07/QuantumProof-cr-Ada-Zejun-Shen-Default-98x55.webp 98w" sizes="(max-width: 520px) 100vw, 520px">                        </div>
-                    </div>
-                                    </a>
-            </div>
-                <div class="card__content ">
-            <div class="mb1 pb025 mt0 h6t mbold card__kicker">
-                <a class=" theme__text--underline theme__accent uppercase tracking-wide-3" href="/tag/computational-complexity/">computational complexity</a>            </div>
-            <a href="https://www.quantamagazine.org/researchers-reveal-the-power-of-quantum-proofs-20260706/" data-toggle-hover="card">
-                <h3 class="card__title noe mv0 transition--color h2t s:float-left s:w-50p hover:text-gray-767">
-                    Researchers Reveal the Power of ‘Quantum Proofs’                </h3>
-            </a>
-            <div class="card__meta mb0 mt025 flex flex-items-center flex-wrap">
-    
-    <div class="byline relative flex flex-items-start merriweather mt025 mb025 mr1 h6t w-fit gray9 hover:text-gray-1a1 theme__text-hover">
-        <em class="gray4 byline__by mr075">By </em>
-        <a href="https://www.quantamagazine.org/authors/brubaker_ben/">
-            <span class="byline__author small uppercase kern light">Ben Brubaker</span>
-        </a>
-            </div>
-        <span class="divider theme__divider mr1 relative h6"></span>
-                <div class="card-date h6 flex flex-items-center mv05">
-            <div class="uppercase mr1 kern small gray9 hover:text-gray-1a1">July 6, 2026</div>
-            <span class="divider theme__divider mr1 relative"></span>
-        </div>
-            <div class="card__actions h6 flex flex-items-center mv05 text-gray">
-        <div class="comments-button mr05 flex flex-items-center gray3 theme__accent-hover " data-name="comment-bubble">
-    <a href="https://www.quantamagazine.org/researchers-reveal-the-power-of-quantum-proofs-20260706/#comments" class="flex flex-items-center pangram">
-        <svg viewBox="0 0 50 50" enable-background="new 0 0 50 50" xmlns="http://www.w3.org/2000/svg" class=""><title>Comment</title><path fill="currentColor" d="M9.4 4.2h31.2c8.6 0 9.4 7 9.4 15.6s-.7 15.6-9.4 15.6h-2.2l-.9 9.4-18.8-9.4H9.4c-8.6 0-9.4-7-9.4-15.6S.7 4.2 9.4 4.2z"></path></svg>            <div>
-                <span class="comments-button__count theme__text ml075 small mbold disqus-comment-count" data-disqus-identifier="163912 https://www.quantamagazine.org/?p=163912"></span>
-            </div>
-                </a>
-</div>
-        <span class="divider theme__divider mh075 relative"></span>
-        <div class="relative">
-    <button class="bookmark-button gray3 mh05 flex flex-items-center theme__accent-hover " data-toggle-hover="tooltip" data-id="163912" data-active-class="" aria-expanded="false">
-        <svg class="icon" viewBox="0 0 50 50" enable-background="new 0 0 50 50" xmlns="http://www.w3.org/2000/svg"><title>Save Article</title><path fill="currentColor" d="M2.1 0h45.8v50L25.5 37.5 2.1 50V0z"></path></svg>    </button>
-    <div class="q-tooltip hidden force-mobile-placement w-32 ml-n16 -top-10">
-    <div class="q-tooltip-content">
-        <div class="q-tooltip-arrow -bottom-3"></div>
-        <div class="q-tooltip-inner py-1 pl-1" role="tooltip">
-                            <div class="h6t relative z1 uppercase kern--w mx025">
-                    <span class="small no-wrap">Read Later</span>
-                </div>
-                        </div>
-    </div>
-</div>
-</div>
-    </div>
-</div>
-            <div class="card__excerpt h5 pangram gray4 mb4 mt025">
-                <p>When checking that solutions to certain problems are correct, it turns out, you can’t get around the inherent complexity of the quantum world. </p>            </div>
-        </div>]]></content>
+        <content type="html"><![CDATA[When checking that solutions to certain problems are correct, it turns out, you can’t get around the inherent complexity of the quantum world.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Key Chemistry Question Answered, No Quantum Computer Required]]></title>
         <id>https://www.quantamagazine.org/tag/chemistry/</id>
         <link href="https://www.quantamagazine.org/tag/chemistry/"/>
         <updated>2026-09-15T15:15:06.140Z</updated>
-        <content type="html"><![CDATA[<div class="card__image mr1 mb1" data-toggle-hover="card">
-                <a href="https://www.quantamagazine.org/key-chemistry-question-answered-no-quantum-computer-required-20260529/" class="relative">
-                    <span class="screen-reader-text">Key Chemistry Question Answered, No Quantum Computer Required</span>
-                    <div class="image mx0 relative image--standard">
-                        <div class="image__inner absolute fit-x is-loaded">
-                            <img width="520" height="292" src="https://www.quantamagazine.org/wp-content/uploads/2026/05/Chem-Quantum-Advantage-cr-Nash-Weerasekera-Default.webp" class="absolute fit-x fill-h fill-v mxa" alt="" decoding="async" srcset="https://www.quantamagazine.org/wp-content/uploads/2026/05/Chem-Quantum-Advantage-cr-Nash-Weerasekera-Default.webp 520w, https://www.quantamagazine.org/wp-content/uploads/2026/05/Chem-Quantum-Advantage-cr-Nash-Weerasekera-Default-98x55.webp 98w" sizes="(max-width: 520px) 100vw, 520px">                        </div>
-                    </div>
-                                    </a>
-            </div>
-                <div class="card__content ">
-            <div class="mb1 pb025 mt0 h6t mbold card__kicker">
-                <a class=" theme__text--underline theme__accent uppercase tracking-wide-3" href="/tag/chemistry/">chemistry</a>            </div>
-            <a href="https://www.quantamagazine.org/key-chemistry-question-answered-no-quantum-computer-required-20260529/" data-toggle-hover="card">
-                <h3 class="card__title noe mv0 transition--color h2t s:float-left s:w-50p hover:text-gray-767">
-                    Key Chemistry Question Answered, No Quantum Computer Required                </h3>
-            </a>
-            <div class="card__meta mb0 mt025 flex flex-items-center flex-wrap">
-    
-    <div class="byline relative flex flex-items-start merriweather mt025 mb025 mr1 h6t w-fit gray9 hover:text-gray-1a1 theme__text-hover">
-        <em class="gray4 byline__by mr075">By </em>
-        <a href="https://www.quantamagazine.org/authors/kevin-hartnett/">
-            <span class="byline__author small uppercase kern light">Kevin Hartnett</span>
-        </a>
-            </div>
-        <span class="divider theme__divider mr1 relative h6"></span>
-                <div class="card-date h6 flex flex-items-center mv05">
-            <div class="uppercase mr1 kern small gray9 hover:text-gray-1a1">May 29, 2026</div>
-            <span class="divider theme__divider mr1 relative"></span>
-        </div>
-            <div class="card__actions h6 flex flex-items-center mv05 text-gray">
-        <div class="comments-button mr05 flex flex-items-center gray3 theme__accent-hover " data-name="comment-bubble">
-    <a href="https://www.quantamagazine.org/key-chemistry-question-answered-no-quantum-computer-required-20260529/#comments" class="flex flex-items-center pangram">
-        <svg viewBox="0 0 50 50" enable-background="new 0 0 50 50" xmlns="http://www.w3.org/2000/svg" class=""><title>Comment</title><path fill="currentColor" d="M9.4 4.2h31.2c8.6 0 9.4 7 9.4 15.6s-.7 15.6-9.4 15.6h-2.2l-.9 9.4-18.8-9.4H9.4c-8.6 0-9.4-7-9.4-15.6S.7 4.2 9.4 4.2z"></path></svg>            <div>
-                <span class="comments-button__count theme__text ml075 small mbold disqus-comment-count" data-disqus-identifier="162533 https://www.quantamagazine.org/?p=162533"></span>
-            </div>
-                </a>
-</div>
-        <span class="divider theme__divider mh075 relative"></span>
-        <div class="relative">
-    <button class="bookmark-button gray3 mh05 flex flex-items-center theme__accent-hover " data-toggle-hover="tooltip" data-id="162533" data-active-class="" aria-expanded="false">
-        <svg class="icon" viewBox="0 0 50 50" enable-background="new 0 0 50 50" xmlns="http://www.w3.org/2000/svg"><title>Save Article</title><path fill="currentColor" d="M2.1 0h45.8v50L25.5 37.5 2.1 50V0z"></path></svg>    </button>
-    <div class="q-tooltip hidden force-mobile-placement w-32 ml-n16 -top-10">
-    <div class="q-tooltip-content">
-        <div class="q-tooltip-arrow -bottom-3"></div>
-        <div class="q-tooltip-inner py-1 pl-1" role="tooltip">
-                            <div class="h6t relative z1 uppercase kern--w mx025">
-                    <span class="small no-wrap">Read Later</span>
-                </div>
-                        </div>
-    </div>
-</div>
-</div>
-    </div>
-</div>
-            <div class="card__excerpt h5 pangram gray4 mb4 mt025">
-                <p>Do we need quantum computers to fully understand complex chemical reactions? A new result, decades in the making, shows the surprising power of ordinary “classical” machines.</p>            </div>
-        </div>]]></content>
+        <content type="html"><![CDATA[Do we need quantum computers to fully understand complex chemical reactions? A new result, decades in the making, shows the surprising power of ordinary “classical” machines.]]></content>
     </entry>
 </feed>
