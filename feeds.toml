@@ -8,7 +8,7 @@ contentSelector = "section div p"
 
 [arxiv-ai-alife-robot]
 title = "ArXiv Search"
-url = "https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=artificial+intelligence&terms-0-field=all&terms-1-operator=OR&terms-1-term=robotics&terms-1-field=all&terms-2-operator=OR&terms-2-term=robot&terms-2-field=all&terms-3-operator=OR&terms-3-term=artificial+life&terms-3-field=title&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=past_12&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first"
+url = "https://x.gd/dOy4R"
 entrySelector = "li.arxiv-result"
 titleSelector = "p.title"
 linkSelector = "a"
