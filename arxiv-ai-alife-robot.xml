@@ -1,95 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://FinalLabsOrg.github.io/feeds/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2026-09-16T04:15:44.202Z</updated>
+    <id>https://arxiv.org/search/advanced?advanced=&amp;terms-0-operator=AND&amp;terms-0-term=artificial+intelligence&amp;terms-0-field=all&amp;terms-1-operator=OR&amp;terms-1-term=robotics&amp;terms-1-field=all&amp;terms-2-operator=OR&amp;terms-2-term=robot&amp;terms-2-field=all&amp;terms-3-operator=OR&amp;terms-3-term=artificial+life&amp;terms-3-field=title&amp;classification-physics_archives=all&amp;classification-include_cross_list=include&amp;date-filter_by=past_12&amp;date-year=&amp;date-from_date=&amp;date-to_date=&amp;date-date_type=submitted_date&amp;abstracts=show&amp;size=50&amp;order=-announced_date_first</id>
+    <title>ArXiv Search</title>
+    <updated>2026-09-16T04:15:44.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://static.arxiv.org/static/base/1.0.0a5/images/icons/favicon-32x32.png</icon>
     <entry>
-        <title type="html"><![CDATA[If AI can do math, what’s the point of mathematicians? (SciAm Computing)]]></title>
-        <id>https://www.scientificamerican.com/article/mathematicians-confront-the-ai-apocalypse/</id>
-        <link href="https://www.scientificamerican.com/article/mathematicians-confront-the-ai-apocalypse/"/>
-        <updated>2026-09-15T16:04:59.546Z</updated>
-        <content type="html"><![CDATA[What happens when machines surpass the most brilliant human minds? Mathematicians are finding out]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Was this record-setting encryption crack a fluke—or the new normal? (SciAm Computing)]]></title>
-        <id>https://www.scientificamerican.com/article/whats-the-tech-behind-the-record-breaking-rsa-260-crack/</id>
-        <link href="https://www.scientificamerican.com/article/whats-the-tech-behind-the-record-breaking-rsa-260-crack/"/>
-        <updated>2026-09-15T16:04:59.547Z</updated>
-        <content type="html"><![CDATA[A researcher’s social media post that revealed how to break part of a popular encryption protocol has gone viral. But did he really do it with just “good old paper and pencil”?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The hackers protecting America’s water supply (SciAm Computing)]]></title>
-        <id>https://www.scientificamerican.com/podcast/episode/the-hackers-protecting-americas-water-supply/</id>
-        <link href="https://www.scientificamerican.com/podcast/episode/the-hackers-protecting-americas-water-supply/"/>
-        <updated>2026-09-15T16:04:59.547Z</updated>
-        <content type="html"><![CDATA[Cybersecurity experts are volunteering to keep America’s utilities safe from attacks]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI agents went rogue again—this time with a heap of deception (SciAm Computing)]]></title>
-        <id>https://www.scientificamerican.com/article/anthropic-and-openai-ai-agents-showed-signs-of-deception-during-safety-tests/</id>
-        <link href="https://www.scientificamerican.com/article/anthropic-and-openai-ai-agents-showed-signs-of-deception-during-safety-tests/"/>
-        <updated>2026-09-15T16:04:59.555Z</updated>
-        <content type="html"><![CDATA[A U.K. safety evaluation found agents powered by Anthropic and OpenAI took unauthorized actions online, exposing a growing problem of control]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two research efforts gave AI the same open problem. Their papers were submitted three hours apart (SciAm Computing)]]></title>
-        <id>https://www.scientificamerican.com/article/ai-helped-produce-two-proofs-for-the-same-cryptography-problem/</id>
-        <link href="https://www.scientificamerican.com/article/ai-helped-produce-two-proofs-for-the-same-cryptography-problem/"/>
-        <updated>2026-09-15T16:04:59.556Z</updated>
-        <content type="html"><![CDATA[An M.I.T. Ph.D. student and two University of California system cryptographers used GPT-5.6 Sol Ultra in different ways, raising new questions about independent discovery and scientific credit]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China’s LineShine supercomputer tops global rankings with more than two quintillion calculations per second (SciAm Computing)]]></title>
-        <id>https://www.scientificamerican.com/article/chinas-lineshine-supercomputer-tops-global-rankings-with-almost-2-quadrillion-calculations-per-second/</id>
-        <link href="https://www.scientificamerican.com/article/chinas-lineshine-supercomputer-tops-global-rankings-with-almost-2-quadrillion-calculations-per-second/"/>
-        <updated>2026-09-15T16:04:59.557Z</updated>
-        <content type="html"><![CDATA[The speedy machine displaces the U.S.’s Lawrence Livermore National Laboratory’s El Capitan at the top of the TOP500 rankings of the world’s fastest supercomputers]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[John Urschel (SciAm Computing)]]></title>
-        <id>https://www.scientificamerican.com/article/john-urschel/</id>
-        <link href="https://www.scientificamerican.com/article/john-urschel/"/>
-        <updated>2026-09-15T16:04:59.563Z</updated>
-        <content type="html"><![CDATA[The mathematician and former NFL player on the benefits of having a broad background for young people who are interested in science]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft’s new quantum computer chip has a fundamental problem (SciAm Computing)]]></title>
-        <id>https://www.scientificamerican.com/article/microsofts-upgraded-majorana-quantum-computing-chip-fizzles-with-physicists/</id>
-        <link href="https://www.scientificamerican.com/article/microsofts-upgraded-majorana-quantum-computing-chip-fizzles-with-physicists/"/>
-        <updated>2026-09-15T16:04:59.565Z</updated>
-        <content type="html"><![CDATA[Microsoft’s announcement of a new quantum computing breakthrough with its Majorana 2 chip continues a trend of bold claims followed by scant evidence]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The AI boom has a memory problem (SciAm Computing)]]></title>
-        <id>https://www.scientificamerican.com/article/high-bandwidth-memory-is-a-bottleneck-for-ai-chips/</id>
-        <link href="https://www.scientificamerican.com/article/high-bandwidth-memory-is-a-bottleneck-for-ai-chips/"/>
-        <updated>2026-09-15T16:04:59.566Z</updated>
-        <content type="html"><![CDATA[High-bandwidth memory keeps powerful AI chips fed with data, and demand for it helped Boise, Idaho–based Micron briefly top $1 trillion in market value]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Could the next AI data center be attached to your house? (SciAm Computing)]]></title>
-        <id>https://www.scientificamerican.com/article/span-wants-to-turn-homes-into-mini-data-centers/</id>
-        <link href="https://www.scientificamerican.com/article/span-wants-to-turn-homes-into-mini-data-centers/"/>
-        <updated>2026-09-15T16:04:59.568Z</updated>
-        <content type="html"><![CDATA[Smart-panel start-up Span wants to turn spare household electricity into AI computing power. How far it can scale and what effect that would have on the residential grid remain unsettled]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An illustrated field guide to qubits (SciAm Computing)]]></title>
-        <id>https://www.scientificamerican.com/article/a-field-guide-to-quantum-computer-qubits/</id>
-        <link href="https://www.scientificamerican.com/article/a-field-guide-to-quantum-computer-qubits/"/>
-        <updated>2026-09-15T16:04:59.568Z</updated>
-        <content type="html"><![CDATA[Here are six ways to build a quantum computer]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The programmer whose code underpins the Internet (SciAm Computing)]]></title>
-        <id>https://www.scientificamerican.com/article/the-programmer-whose-code-underpins-the-internet/</id>
-        <link href="https://www.scientificamerican.com/article/the-programmer-whose-code-underpins-the-internet/"/>
-        <updated>2026-09-15T16:04:59.569Z</updated>
-        <content type="html"><![CDATA[Sharla Boehm, a math teacher, spent her summers coding. She’d go on to build what would eventually evolve into the Internet]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agentic Societies Need a Social Harness (ArXiv Search)]]></title>
+        <title type="html"><![CDATA[Agentic Societies Need a Social Harness]]></title>
         <id>https://arxiv.org/abs/2609.17527</id>
         <link href="https://arxiv.org/abs/2609.17527"/>
         <updated>2026-09-16T04:15:43.655Z</updated>
@@ -97,7 +14,7 @@
         <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2609.17527v1-abstract-full').style.display = 'inline'; document.getElementById('2609.17527v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Modality-Autoregressive World-Action Models (ArXiv Search)]]></title>
+        <title type="html"><![CDATA[Modality-Autoregressive World-Action Models]]></title>
         <id>https://arxiv.org/abs/2609.17524</id>
         <link href="https://arxiv.org/abs/2609.17524"/>
         <updated>2026-09-16T04:15:43.655Z</updated>
@@ -105,7 +22,7 @@
         <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2609.17524v1-abstract-full').style.display = 'inline'; document.getElementById('2609.17524v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents (ArXiv Search)]]></title>
+        <title type="html"><![CDATA[ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents]]></title>
         <id>https://arxiv.org/abs/2609.17523</id>
         <link href="https://arxiv.org/abs/2609.17523"/>
         <updated>2026-09-16T04:15:43.661Z</updated>
@@ -113,7 +30,7 @@
         <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2609.17523v1-abstract-full').style.display = 'inline'; document.getElementById('2609.17523v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control (ArXiv Search)]]></title>
+        <title type="html"><![CDATA[PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control]]></title>
         <id>https://arxiv.org/abs/2609.17521</id>
         <link href="https://arxiv.org/abs/2609.17521"/>
         <updated>2026-09-16T04:15:43.663Z</updated>
@@ -121,7 +38,7 @@
         <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2609.17521v1-abstract-full').style.display = 'inline'; document.getElementById('2609.17521v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[When Should LLMs Abstain? Chain-of-Self-Questioning for Selective Risk Control (ArXiv Search)]]></title>
+        <title type="html"><![CDATA[When Should LLMs Abstain? Chain-of-Self-Questioning for Selective Risk Control]]></title>
         <id>https://arxiv.org/abs/2609.17516</id>
         <link href="https://arxiv.org/abs/2609.17516"/>
         <updated>2026-09-16T04:15:43.664Z</updated>
@@ -129,7 +46,7 @@
         <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2609.17516v1-abstract-full').style.display = 'inline'; document.getElementById('2609.17516v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LACE: Layer-Wise Compression for Dynamic Frame Rate Codecs (ArXiv Search)]]></title>
+        <title type="html"><![CDATA[LACE: Layer-Wise Compression for Dynamic Frame Rate Codecs]]></title>
         <id>https://arxiv.org/abs/2609.17509</id>
         <link href="https://arxiv.org/abs/2609.17509"/>
         <updated>2026-09-16T04:15:43.666Z</updated>
@@ -137,7 +54,7 @@
         <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2609.17509v1-abstract-full').style.display = 'inline'; document.getElementById('2609.17509v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ENCP: Episode-Normalized Conformal Prediction for Vision-and-Language Navigation (ArXiv Search)]]></title>
+        <title type="html"><![CDATA[ENCP: Episode-Normalized Conformal Prediction for Vision-and-Language Navigation]]></title>
         <id>https://arxiv.org/abs/2609.17499</id>
         <link href="https://arxiv.org/abs/2609.17499"/>
         <updated>2026-09-16T04:15:43.667Z</updated>
@@ -145,7 +62,7 @@
         <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2609.17499v1-abstract-full').style.display = 'inline'; document.getElementById('2609.17499v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Verifiable Social Reasoning for LLM Assistants (ArXiv Search)]]></title>
+        <title type="html"><![CDATA[Verifiable Social Reasoning for LLM Assistants]]></title>
         <id>https://arxiv.org/abs/2609.17496</id>
         <link href="https://arxiv.org/abs/2609.17496"/>
         <updated>2026-09-16T04:15:43.669Z</updated>
@@ -153,7 +70,7 @@
         <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2609.17496v1-abstract-full').style.display = 'inline'; document.getElementById('2609.17496v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence (ArXiv Search)]]></title>
+        <title type="html"><![CDATA[LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence]]></title>
         <id>https://arxiv.org/abs/2609.17488</id>
         <link href="https://arxiv.org/abs/2609.17488"/>
         <updated>2026-09-16T04:15:43.670Z</updated>
@@ -161,7 +78,7 @@
         <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2609.17488v1-abstract-full').style.display = 'inline'; document.getElementById('2609.17488v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dissecting Motion-Prior Regularization for Data-Scarce Robotic Insertion (ArXiv Search)]]></title>
+        <title type="html"><![CDATA[Dissecting Motion-Prior Regularization for Data-Scarce Robotic Insertion]]></title>
         <id>https://arxiv.org/abs/2609.17484</id>
         <link href="https://arxiv.org/abs/2609.17484"/>
         <updated>2026-09-16T04:15:43.672Z</updated>
@@ -169,7 +86,7 @@
         <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2609.17484v1-abstract-full').style.display = 'inline'; document.getElementById('2609.17484v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Det-LIME: Detector-Aware, Multi-Instance Local Interpretable Model-Agnostic Explanations for Automated Marine Mammal Detection (ArXiv Search)]]></title>
+        <title type="html"><![CDATA[Det-LIME: Detector-Aware, Multi-Instance Local Interpretable Model-Agnostic Explanations for Automated Marine Mammal Detection]]></title>
         <id>https://arxiv.org/abs/2609.17479</id>
         <link href="https://arxiv.org/abs/2609.17479"/>
         <updated>2026-09-16T04:15:43.676Z</updated>
@@ -177,7 +94,7 @@
         <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2609.17479v1-abstract-full').style.display = 'inline'; document.getElementById('2609.17479v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JustFit: 200K-Token LLM Serving on a 24 GiB Laptop with Just-in-Time State Management (ArXiv Search)]]></title>
+        <title type="html"><![CDATA[JustFit: 200K-Token LLM Serving on a 24 GiB Laptop with Just-in-Time State Management]]></title>
         <id>https://arxiv.org/abs/2609.17475</id>
         <link href="https://arxiv.org/abs/2609.17475"/>
         <updated>2026-09-16T04:15:43.679Z</updated>
@@ -185,7 +102,7 @@
         <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2609.17475v1-abstract-full').style.display = 'inline'; document.getElementById('2609.17475v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Coupled Calibration and Learning: Mitigating Teacher Bias in LLM Distillation without Target-Domain Reward Feedback (ArXiv Search)]]></title>
+        <title type="html"><![CDATA[Coupled Calibration and Learning: Mitigating Teacher Bias in LLM Distillation without Target-Domain Reward Feedback]]></title>
         <id>https://arxiv.org/abs/2609.17474</id>
         <link href="https://arxiv.org/abs/2609.17474"/>
         <updated>2026-09-16T04:15:43.681Z</updated>
@@ -193,7 +110,7 @@
         <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2609.17474v1-abstract-full').style.display = 'inline'; document.getElementById('2609.17474v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Decomposition Buys Integrity, Not Yield (ArXiv Search)]]></title>
+        <title type="html"><![CDATA[Decomposition Buys Integrity, Not Yield]]></title>
         <id>https://arxiv.org/abs/2609.17464</id>
         <link href="https://arxiv.org/abs/2609.17464"/>
         <updated>2026-09-16T04:15:43.683Z</updated>
@@ -201,7 +118,7 @@
         <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2609.17464v1-abstract-full').style.display = 'inline'; document.getElementById('2609.17464v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gaussian Processes for Modelling Spatial Fields with Robot Swarms (ArXiv Search)]]></title>
+        <title type="html"><![CDATA[Gaussian Processes for Modelling Spatial Fields with Robot Swarms]]></title>
         <id>https://arxiv.org/abs/2609.17463</id>
         <link href="https://arxiv.org/abs/2609.17463"/>
         <updated>2026-09-16T04:15:43.684Z</updated>
@@ -209,7 +126,7 @@
         <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2609.17463v1-abstract-full').style.display = 'inline'; document.getElementById('2609.17463v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Evaluating Verified Autonomy in Quantum Engineering (ArXiv Search)]]></title>
+        <title type="html"><![CDATA[Evaluating Verified Autonomy in Quantum Engineering]]></title>
         <id>https://arxiv.org/abs/2609.17439</id>
         <link href="https://arxiv.org/abs/2609.17439"/>
         <updated>2026-09-16T04:15:43.686Z</updated>
@@ -217,7 +134,7 @@
         <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2609.17439v1-abstract-full').style.display = 'inline'; document.getElementById('2609.17439v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CareMirror: Bringing Caregiver Wellbeing into the Dementia Care Ecosystem (ArXiv Search)]]></title>
+        <title type="html"><![CDATA[CareMirror: Bringing Caregiver Wellbeing into the Dementia Care Ecosystem]]></title>
         <id>https://arxiv.org/abs/2609.17434</id>
         <link href="https://arxiv.org/abs/2609.17434"/>
         <updated>2026-09-16T04:15:43.687Z</updated>
@@ -225,7 +142,7 @@
         <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2609.17434v1-abstract-full').style.display = 'inline'; document.getElementById('2609.17434v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hamilton-Jacobi Reachability for Hybrid Systems: Unified Goal-Driven Control with Safety Guarantees (ArXiv Search)]]></title>
+        <title type="html"><![CDATA[Hamilton-Jacobi Reachability for Hybrid Systems: Unified Goal-Driven Control with Safety Guarantees]]></title>
         <id>https://arxiv.org/abs/2609.17430</id>
         <link href="https://arxiv.org/abs/2609.17430"/>
         <updated>2026-09-16T04:15:43.689Z</updated>
@@ -233,7 +150,7 @@
         <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2609.17430v1-abstract-full').style.display = 'inline'; document.getElementById('2609.17430v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learning-Guided Planning in Large Dynamic Action Spaces: Budgeted Tree Search for One-to-Many Mobile Charging (ArXiv Search)]]></title>
+        <title type="html"><![CDATA[Learning-Guided Planning in Large Dynamic Action Spaces: Budgeted Tree Search for One-to-Many Mobile Charging]]></title>
         <id>https://arxiv.org/abs/2609.17429</id>
         <link href="https://arxiv.org/abs/2609.17429"/>
         <updated>2026-09-16T04:15:43.691Z</updated>
@@ -241,7 +158,7 @@
         <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2609.17429v1-abstract-full').style.display = 'inline'; document.getElementById('2609.17429v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tracking the Unseen: An Occlusion-Robust Framework for Target Tracking Under Full and Long-Term Occlusion (ArXiv Search)]]></title>
+        <title type="html"><![CDATA[Tracking the Unseen: An Occlusion-Robust Framework for Target Tracking Under Full and Long-Term Occlusion]]></title>
         <id>https://arxiv.org/abs/2609.17427</id>
         <link href="https://arxiv.org/abs/2609.17427"/>
         <updated>2026-09-16T04:15:43.692Z</updated>
@@ -249,7 +166,7 @@
         <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2609.17427v1-abstract-full').style.display = 'inline'; document.getElementById('2609.17427v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Talking Head Synthesis with Facial Landmark Guidance via 3D Gaussian Splatting (ArXiv Search)]]></title>
+        <title type="html"><![CDATA[Talking Head Synthesis with Facial Landmark Guidance via 3D Gaussian Splatting]]></title>
         <id>https://arxiv.org/abs/2609.17422</id>
         <link href="https://arxiv.org/abs/2609.17422"/>
         <updated>2026-09-16T04:15:43.694Z</updated>
@@ -257,7 +174,7 @@
         <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2609.17422v1-abstract-full').style.display = 'inline'; document.getElementById('2609.17422v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Transformer-Based Token Fusion and Dynamic Graph Planning for Audio-Visual Navigation (ArXiv Search)]]></title>
+        <title type="html"><![CDATA[Transformer-Based Token Fusion and Dynamic Graph Planning for Audio-Visual Navigation]]></title>
         <id>https://arxiv.org/abs/2609.17421</id>
         <link href="https://arxiv.org/abs/2609.17421"/>
         <updated>2026-09-16T04:15:43.695Z</updated>
@@ -265,7 +182,7 @@
         <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2609.17421v1-abstract-full').style.display = 'inline'; document.getElementById('2609.17421v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CTAN: Cycle-Temporal Attention Network for Embodied Audio-Visual Navigation (ArXiv Search)]]></title>
+        <title type="html"><![CDATA[CTAN: Cycle-Temporal Attention Network for Embodied Audio-Visual Navigation]]></title>
         <id>https://arxiv.org/abs/2609.17420</id>
         <link href="https://arxiv.org/abs/2609.17420"/>
         <updated>2026-09-16T04:15:43.699Z</updated>
@@ -273,7 +190,7 @@
         <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2609.17420v1-abstract-full').style.display = 'inline'; document.getElementById('2609.17420v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[World Model Science: Self-Organized Criticality, Weak Chaos, and Metastable Belief Dynamics in Long-Horizon LLM Agents (ArXiv Search)]]></title>
+        <title type="html"><![CDATA[World Model Science: Self-Organized Criticality, Weak Chaos, and Metastable Belief Dynamics in Long-Horizon LLM Agents]]></title>
         <id>https://arxiv.org/abs/2609.17419</id>
         <link href="https://arxiv.org/abs/2609.17419"/>
         <updated>2026-09-16T04:15:43.701Z</updated>
@@ -281,7 +198,7 @@
         <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2609.17419v1-abstract-full').style.display = 'inline'; document.getElementById('2609.17419v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Never Stop Thinking: Continuous-Time Language Agents (ArXiv Search)]]></title>
+        <title type="html"><![CDATA[Never Stop Thinking: Continuous-Time Language Agents]]></title>
         <id>https://arxiv.org/abs/2609.17416</id>
         <link href="https://arxiv.org/abs/2609.17416"/>
         <updated>2026-09-16T04:15:43.702Z</updated>
@@ -289,7 +206,7 @@
         <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2609.17416v1-abstract-full').style.display = 'inline'; document.getElementById('2609.17416v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SlotDiT: Object-Centric Representations for Diffusion Transformers (ArXiv Search)]]></title>
+        <title type="html"><![CDATA[SlotDiT: Object-Centric Representations for Diffusion Transformers]]></title>
         <id>https://arxiv.org/abs/2609.17414</id>
         <link href="https://arxiv.org/abs/2609.17414"/>
         <updated>2026-09-16T04:15:43.704Z</updated>
@@ -297,7 +214,7 @@
         <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2609.17414v1-abstract-full').style.display = 'inline'; document.getElementById('2609.17414v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Uncountably many local isomorphism types of compactly generated simple groups (ArXiv Search)]]></title>
+        <title type="html"><![CDATA[Uncountably many local isomorphism types of compactly generated simple groups]]></title>
         <id>https://arxiv.org/abs/2609.17410</id>
         <link href="https://arxiv.org/abs/2609.17410"/>
         <updated>2026-09-16T04:15:43.705Z</updated>
@@ -306,7 +223,7 @@
         <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2609.17410v1-abstract-full').style.display = 'inline'; document.getElementById('2609.17410v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Optimized Wrench Polytope Analysis for Real-Time Stability Control of Legged Robots in Complex Multi-Contact Configurations (ArXiv Search)]]></title>
+        <title type="html"><![CDATA[Optimized Wrench Polytope Analysis for Real-Time Stability Control of Legged Robots in Complex Multi-Contact Configurations]]></title>
         <id>https://arxiv.org/abs/2609.17405</id>
         <link href="https://arxiv.org/abs/2609.17405"/>
         <updated>2026-09-16T04:15:43.707Z</updated>
@@ -314,7 +231,7 @@
         <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2609.17405v1-abstract-full').style.display = 'inline'; document.getElementById('2609.17405v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Residual Fault Adaptation for Dexterous In-Hand Manipulation Under Runtime Joint Faults (ArXiv Search)]]></title>
+        <title type="html"><![CDATA[Residual Fault Adaptation for Dexterous In-Hand Manipulation Under Runtime Joint Faults]]></title>
         <id>https://arxiv.org/abs/2609.17404</id>
         <link href="https://arxiv.org/abs/2609.17404"/>
         <updated>2026-09-16T04:15:43.708Z</updated>
@@ -322,7 +239,7 @@
         <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2609.17404v1-abstract-full').style.display = 'inline'; document.getElementById('2609.17404v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Coding Agents Have Converged: Why the SWE-bench Leaderboard Can No Longer Order Its Top Entries, and What to Measure Instead (ArXiv Search)]]></title>
+        <title type="html"><![CDATA[Coding Agents Have Converged: Why the SWE-bench Leaderboard Can No Longer Order Its Top Entries, and What to Measure Instead]]></title>
         <id>https://arxiv.org/abs/2609.17394</id>
         <link href="https://arxiv.org/abs/2609.17394"/>
         <updated>2026-09-16T04:15:43.710Z</updated>
@@ -330,7 +247,7 @@
         <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2609.17394v1-abstract-full').style.display = 'inline'; document.getElementById('2609.17394v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FlashVector: Agent for Hierarchical Model Serving Stack Optimization (ArXiv Search)]]></title>
+        <title type="html"><![CDATA[FlashVector: Agent for Hierarchical Model Serving Stack Optimization]]></title>
         <id>https://arxiv.org/abs/2609.17391</id>
         <link href="https://arxiv.org/abs/2609.17391"/>
         <updated>2026-09-16T04:15:43.711Z</updated>
@@ -338,7 +255,7 @@
         <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2609.17391v1-abstract-full').style.display = 'inline'; document.getElementById('2609.17391v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PanoGS-SLAM: Panoramic 3D Gaussian Splatting SLAM (ArXiv Search)]]></title>
+        <title type="html"><![CDATA[PanoGS-SLAM: Panoramic 3D Gaussian Splatting SLAM]]></title>
         <id>https://arxiv.org/abs/2609.17387</id>
         <link href="https://arxiv.org/abs/2609.17387"/>
         <updated>2026-09-16T04:15:43.712Z</updated>
@@ -346,7 +263,7 @@
         <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2609.17387v1-abstract-full').style.display = 'inline'; document.getElementById('2609.17387v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Exact Fusion and Coordinated Exploration in Multi-Robot Active Inference (ArXiv Search)]]></title>
+        <title type="html"><![CDATA[Exact Fusion and Coordinated Exploration in Multi-Robot Active Inference]]></title>
         <id>https://arxiv.org/abs/2609.17384</id>
         <link href="https://arxiv.org/abs/2609.17384"/>
         <updated>2026-09-16T04:15:43.714Z</updated>
@@ -354,7 +271,7 @@
         <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2609.17384v1-abstract-full').style.display = 'inline'; document.getElementById('2609.17384v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[XPACE: Joint World and Action Modeling from Heterogeneous Experience (ArXiv Search)]]></title>
+        <title type="html"><![CDATA[XPACE: Joint World and Action Modeling from Heterogeneous Experience]]></title>
         <id>https://arxiv.org/abs/2609.17372</id>
         <link href="https://arxiv.org/abs/2609.17372"/>
         <updated>2026-09-16T04:15:43.715Z</updated>
@@ -362,7 +279,7 @@
         <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2609.17372v1-abstract-full').style.display = 'inline'; document.getElementById('2609.17372v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RobResilience: Implementing and Evaluating a Resilience Framework for Cyber-Physical Embodied Systems (ArXiv Search)]]></title>
+        <title type="html"><![CDATA[RobResilience: Implementing and Evaluating a Resilience Framework for Cyber-Physical Embodied Systems]]></title>
         <id>https://arxiv.org/abs/2609.17349</id>
         <link href="https://arxiv.org/abs/2609.17349"/>
         <updated>2026-09-16T04:15:43.718Z</updated>
@@ -370,7 +287,7 @@
         <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2609.17349v1-abstract-full').style.display = 'inline'; document.getElementById('2609.17349v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Where Should a Document Live: Context, Representations, or Parameters? (ArXiv Search)]]></title>
+        <title type="html"><![CDATA[Where Should a Document Live: Context, Representations, or Parameters?]]></title>
         <id>https://arxiv.org/abs/2609.17346</id>
         <link href="https://arxiv.org/abs/2609.17346"/>
         <updated>2026-09-16T04:15:43.719Z</updated>
@@ -378,7 +295,7 @@
         <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2609.17346v1-abstract-full').style.display = 'inline'; document.getElementById('2609.17346v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Self-Emergence Agent Architecture:Behavior-Inertia HMM, Reflexive Metacognition,and Social-Contrastive Self-Modeling (ArXiv Search)]]></title>
+        <title type="html"><![CDATA[Self-Emergence Agent Architecture:Behavior-Inertia HMM, Reflexive Metacognition,and Social-Contrastive Self-Modeling]]></title>
         <id>https://arxiv.org/abs/2609.17331</id>
         <link href="https://arxiv.org/abs/2609.17331"/>
         <updated>2026-09-16T04:15:43.721Z</updated>
@@ -386,7 +303,7 @@
         <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2609.17331v1-abstract-full').style.display = 'inline'; document.getElementById('2609.17331v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vroom-Vroom at SHROOM-Visions: A Multi-Judge Committee for Detecting Hallucinated Spans in Vision-Language Outputs (ArXiv Search)]]></title>
+        <title type="html"><![CDATA[Vroom-Vroom at SHROOM-Visions: A Multi-Judge Committee for Detecting Hallucinated Spans in Vision-Language Outputs]]></title>
         <id>https://arxiv.org/abs/2609.17327</id>
         <link href="https://arxiv.org/abs/2609.17327"/>
         <updated>2026-09-16T04:15:43.722Z</updated>
@@ -394,7 +311,7 @@
         <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2609.17327v1-abstract-full').style.display = 'inline'; document.getElementById('2609.17327v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From Transient Prompts to Persistent Control: Scientific Poster Generation via Recursive Semantic-Geometric Contracts (ArXiv Search)]]></title>
+        <title type="html"><![CDATA[From Transient Prompts to Persistent Control: Scientific Poster Generation via Recursive Semantic-Geometric Contracts]]></title>
         <id>https://arxiv.org/abs/2609.17326</id>
         <link href="https://arxiv.org/abs/2609.17326"/>
         <updated>2026-09-16T04:15:43.724Z</updated>
@@ -402,7 +319,7 @@
         <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2609.17326v1-abstract-full').style.display = 'inline'; document.getElementById('2609.17326v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Intrinsic Motivation in Reinforcement Learning: A Research Agenda for Adaptive Self-Organisation (ArXiv Search)]]></title>
+        <title type="html"><![CDATA[Intrinsic Motivation in Reinforcement Learning: A Research Agenda for Adaptive Self-Organisation]]></title>
         <id>https://arxiv.org/abs/2609.17325</id>
         <link href="https://arxiv.org/abs/2609.17325"/>
         <updated>2026-09-16T04:15:43.726Z</updated>
@@ -410,7 +327,7 @@
         <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2609.17325v1-abstract-full').style.display = 'inline'; document.getElementById('2609.17325v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mo' Models, Mo' Problems: How to best select model pools when designing Multi-Agent Systems (ArXiv Search)]]></title>
+        <title type="html"><![CDATA[Mo' Models, Mo' Problems: How to best select model pools when designing Multi-Agent Systems]]></title>
         <id>https://arxiv.org/abs/2609.17306</id>
         <link href="https://arxiv.org/abs/2609.17306"/>
         <updated>2026-09-16T04:15:43.729Z</updated>
@@ -418,7 +335,7 @@
         <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2609.17306v1-abstract-full').style.display = 'inline'; document.getElementById('2609.17306v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Online Geometric Change Detection via Scene Decomposition (ArXiv Search)]]></title>
+        <title type="html"><![CDATA[Online Geometric Change Detection via Scene Decomposition]]></title>
         <id>https://arxiv.org/abs/2609.17302</id>
         <link href="https://arxiv.org/abs/2609.17302"/>
         <updated>2026-09-16T04:15:43.730Z</updated>
@@ -426,7 +343,7 @@
         <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2609.17302v1-abstract-full').style.display = 'inline'; document.getElementById('2609.17302v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Machine Zygote: Causal Biparental Heredity Before Learning in a Germline--Soma Artificial Agent (ArXiv Search)]]></title>
+        <title type="html"><![CDATA[Machine Zygote: Causal Biparental Heredity Before Learning in a Germline--Soma Artificial Agent]]></title>
         <id>https://arxiv.org/abs/2609.17300</id>
         <link href="https://arxiv.org/abs/2609.17300"/>
         <updated>2026-09-16T04:15:43.732Z</updated>
@@ -434,7 +351,7 @@
         <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2609.17300v1-abstract-full').style.display = 'inline'; document.getElementById('2609.17300v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Escape-Aware Control Barrier Functions for Quadrotor Safety under Body-Rate Limits (ArXiv Search)]]></title>
+        <title type="html"><![CDATA[Escape-Aware Control Barrier Functions for Quadrotor Safety under Body-Rate Limits]]></title>
         <id>https://arxiv.org/abs/2609.17292</id>
         <link href="https://arxiv.org/abs/2609.17292"/>
         <updated>2026-09-16T04:15:43.734Z</updated>
@@ -442,7 +359,7 @@
         <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2609.17292v1-abstract-full').style.display = 'inline'; document.getElementById('2609.17292v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Extracting ontology-compliant knowledge from scientific text describing irradiated materials using large language models (ArXiv Search)]]></title>
+        <title type="html"><![CDATA[Extracting ontology-compliant knowledge from scientific text describing irradiated materials using large language models]]></title>
         <id>https://arxiv.org/abs/2609.17291</id>
         <link href="https://arxiv.org/abs/2609.17291"/>
         <updated>2026-09-16T04:15:43.735Z</updated>
@@ -450,7 +367,7 @@
         <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2609.17291v1-abstract-full').style.display = 'inline'; document.getElementById('2609.17291v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[After the Party: Governing What a Viral Agent-Skill Ecosystem Left Behind (ArXiv Search)]]></title>
+        <title type="html"><![CDATA[After the Party: Governing What a Viral Agent-Skill Ecosystem Left Behind]]></title>
         <id>https://arxiv.org/abs/2609.17274</id>
         <link href="https://arxiv.org/abs/2609.17274"/>
         <updated>2026-09-16T04:15:43.737Z</updated>
@@ -458,7 +375,7 @@
         <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2609.17274v1-abstract-full').style.display = 'inline'; document.getElementById('2609.17274v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Calibrate Once, Fly Any Team: Residual-Grounded Low-Fidelity Training for Cooperative Drone Swarms (ArXiv Search)]]></title>
+        <title type="html"><![CDATA[Calibrate Once, Fly Any Team: Residual-Grounded Low-Fidelity Training for Cooperative Drone Swarms]]></title>
         <id>https://arxiv.org/abs/2609.17265</id>
         <link href="https://arxiv.org/abs/2609.17265"/>
         <updated>2026-09-16T04:15:43.739Z</updated>
@@ -466,7 +383,7 @@
         <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2609.17265v1-abstract-full').style.display = 'inline'; document.getElementById('2609.17265v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CAD-Based Relation Learning and Geometric-Symbolic Planning for Robotic Assembly (ArXiv Search)]]></title>
+        <title type="html"><![CDATA[CAD-Based Relation Learning and Geometric-Symbolic Planning for Robotic Assembly]]></title>
         <id>https://arxiv.org/abs/2609.17263</id>
         <link href="https://arxiv.org/abs/2609.17263"/>
         <updated>2026-09-16T04:15:43.741Z</updated>
@@ -474,7 +391,7 @@
         <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2609.17263v1-abstract-full').style.display = 'inline'; document.getElementById('2609.17263v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Port-Hamiltonian Koopman Operator Synthesis for Mechanical Systems (ArXiv Search)]]></title>
+        <title type="html"><![CDATA[Port-Hamiltonian Koopman Operator Synthesis for Mechanical Systems]]></title>
         <id>https://arxiv.org/abs/2609.17249</id>
         <link href="https://arxiv.org/abs/2609.17249"/>
         <updated>2026-09-16T04:15:43.742Z</updated>
@@ -482,7 +399,7 @@
         <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2609.17249v1-abstract-full').style.display = 'inline'; document.getElementById('2609.17249v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DriveMCP: An Agentic AI framework for Advanced Driver Assistance System (ArXiv Search)]]></title>
+        <title type="html"><![CDATA[DriveMCP: An Agentic AI framework for Advanced Driver Assistance System]]></title>
         <id>https://arxiv.org/abs/2609.17247</id>
         <link href="https://arxiv.org/abs/2609.17247"/>
         <updated>2026-09-16T04:15:43.744Z</updated>
