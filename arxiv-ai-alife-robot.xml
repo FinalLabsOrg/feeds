@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://x.gd/dOy4R</id>
     <title>ArXiv Search</title>
-    <updated>2026-09-30T11:19:05.679Z</updated>
+    <updated>2026-09-30T21:31:22.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.arxiv.org/static/base/1.0.0a5/images/icons/favicon-32x32.png</icon>
     <entry>
@@ -382,7 +382,7 @@
         <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2609.37988v1-abstract-full').style.display = 'inline'; document.getElementById('2609.37988v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[S^3S^3: Spectral Null-Space Swap Makes Reasoning Models Efficient]]></title>
+        <title type="html"><![CDATA[S^3S3S^3: Spectral Null-Space Swap Makes Reasoning Models Efficient]]></title>
         <id>https://arxiv.org/abs/2609.37976</id>
         <link href="https://arxiv.org/abs/2609.37976"/>
         <updated>2026-09-30T11:19:05.179Z</updated>
