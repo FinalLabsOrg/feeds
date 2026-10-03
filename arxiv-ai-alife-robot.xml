@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://arxiv.org/search/advanced?advanced=&amp;terms-0-operator=AND&amp;terms-0-term=ai&amp;terms-0-field=all&amp;terms-1-operator=OR&amp;terms-1-term=alife&amp;terms-1-field=all&amp;terms-2-operator=OR&amp;terms-2-term=artificial+life&amp;terms-2-field=all&amp;terms-3-operator=OR&amp;terms-3-term=artificial+intelligence&amp;terms-3-field=all&amp;terms-4-operator=OR&amp;terms-4-term=robot&amp;terms-4-field=all&amp;terms-5-operator=OR&amp;terms-5-term=robotics&amp;terms-5-field=all&amp;classification-physics_archives=all&amp;classification-include_cross_list=include&amp;date-filter_by=past_12&amp;date-year=&amp;date-from_date=&amp;date-to_date=&amp;date-date_type=submitted_date&amp;abstracts=show&amp;size=50&amp;order=-announced_date_first</id>
     <title>ArXiv Search</title>
-    <updated>2026-10-02T21:37:41.669Z</updated>
+    <updated>2026-10-03T10:32:49.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.arxiv.org/static/base/1.0.0a5/images/icons/favicon-32x32.png</icon>
     <entry>
