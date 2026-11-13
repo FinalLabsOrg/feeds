@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FinalLabsOrg.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-10-14T20:54:08.318Z</updated>
+    <updated>2026-11-13T05:09:12.751Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[If AI can do math, what’s the point of mathematicians? (SciAm Computing)]]></title>
@@ -89,404 +89,404 @@
         <content type="html"><![CDATA[Sharla Boehm, a math teacher, spent her summers coding. She’d go on to build what would eventually evolve into the Internet]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ChunkAct: Action Chunking for Agentic Robotics (ArXiv Search)]]></title>
-        <id>https://arxiv.org/abs/2610.18874</id>
-        <link href="https://arxiv.org/abs/2610.18874"/>
-        <updated>2026-10-14T10:30:08.331Z</updated>
-        <content type="html"><![CDATA[Agentic <span class="search-hit mathjax">robotics</span> places a large language model (LLM) agent in the…
-        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2610.18874v1-abstract-full').style.display = 'inline'; document.getElementById('2610.18874v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
+        <title type="html"><![CDATA[When Expert Disagreement Hurts: Prestige and Selectivity in LLM Decision Revision (ArXiv Search)]]></title>
+        <id>https://arxiv.org/abs/2611.16694</id>
+        <link href="https://arxiv.org/abs/2611.16694"/>
+        <updated>2026-11-13T05:09:12.324Z</updated>
+        <content type="html"><![CDATA[When language models revise a decision after another agent disagrees, neither reversal counts nor final accuracy shows whether they are fixing mistakes or abandoning correct answers. We introduce a controlled two-pass audit that holds the question, the evidence, and the model's initial answer fixed and varies only the revision context: neutral reflection, anonymous disagreement, or disagreement at…
+        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2611.16694v1-abstract-full').style.display = 'inline'; document.getElementById('2611.16694v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LoopWAM: Closed-Loop Generalist Policy Improvement from Deployment Rollouts (ArXiv Search)]]></title>
-        <id>https://arxiv.org/abs/2610.18873</id>
-        <link href="https://arxiv.org/abs/2610.18873"/>
-        <updated>2026-10-14T10:30:08.331Z</updated>
-        <content type="html"><![CDATA[Scaling expert demonstrations alone does not enable generalist <span class="search-hit mathjax">robot</span> policies to improve from deployment. Real-world rollouts contain successes, suboptimal behavior, and failures: imitating every recorded action can reinforce poor behavior, while filtering out failures discards evidence of physical interactions and their consequences. We introduce \textbf{Lo…
-        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2610.18873v1-abstract-full').style.display = 'inline'; document.getElementById('2610.18873v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
+        <title type="html"><![CDATA[MobileProbe: Adaptive Security Evaluation of Mobile Agents via Trajectory-Aware Injection (ArXiv Search)]]></title>
+        <id>https://arxiv.org/abs/2611.16693</id>
+        <link href="https://arxiv.org/abs/2611.16693"/>
+        <updated>2026-11-13T05:09:12.325Z</updated>
+        <content type="html"><![CDATA[Mobile GUI agents read the screen of a phone and operate apps on a user's behalf to complete multi-step tasks such as online shopping or messaging. Because the agent acts on whatever the screen shows, an attacker can embed malicious instructions into ordinary UI content and redirect its actions. We refer to this threat as environmental injection attack (EIA). Existing benchmarks measure this risk…
+        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2611.16693v1-abstract-full').style.display = 'inline'; document.getElementById('2611.16693v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EgoExplorer: A Vision-Motion-Touch Observatory for Human Loco-Manipulation In Situ (ArXiv Search)]]></title>
-        <id>https://arxiv.org/abs/2610.18872</id>
-        <link href="https://arxiv.org/abs/2610.18872"/>
-        <updated>2026-10-14T10:30:08.333Z</updated>
-        <content type="html"><![CDATA[Learning humanoid loco-manipulation from human demonstrations rests on observing how locomotion, posture, and object interaction evolve together as tasks unfold. Scaling collection across diverse environments, in turn, favors lightweight, portable capture systems. Yet, existing datasets provide only partial views of this coordination. Thus, we introduce EgoExplorer, a 100-hour vision-motion-touch…
-        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2610.18872v1-abstract-full').style.display = 'inline'; document.getElementById('2610.18872v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
+        <title type="html"><![CDATA[Edge-Gradient Augmentation under Reinforcement Learning for Temporal Graph (ArXiv Search)]]></title>
+        <id>https://arxiv.org/abs/2611.16678</id>
+        <link href="https://arxiv.org/abs/2611.16678"/>
+        <updated>2026-11-13T05:09:12.328Z</updated>
+        <content type="html"><![CDATA[Temporal link prediction is critical for understand- ing dynamic interactions in evolving networks, informing appli- cations ranging from social network analysis to recommendation systems. Existing methods typically rely on raw temporal graph data, often neglecting explicit edge-change information that can significantly improve predictive performance. To address this gap, we propose edge-gradient…
+        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2611.16678v1-abstract-full').style.display = 'inline'; document.getElementById('2611.16678v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cepheid: Decoupling Scale from Structure for Cross-Family Motion Completion (ArXiv Search)]]></title>
-        <id>https://arxiv.org/abs/2610.18871</id>
-        <link href="https://arxiv.org/abs/2610.18871"/>
-        <updated>2026-10-14T10:30:08.333Z</updated>
-        <content type="html"><![CDATA[…unseen cloth and legged bodies, without skeletons, registration, or cross-mesh correspondence. The same prior applies without retraining to point-tracked animal video and a <span class="search-hit mathjax">robot</span> grasping a soft body. Project page: https://su-terry.github.io/cepheid-website/
-        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2610.18871v1-abstract-full').style.display = 'inline'; document.getElementById('2610.18871v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
+        <title type="html"><![CDATA[NSDL: Neuro-Symbolic Division of Labor for Multi-Robot Task Planning (ArXiv Search)]]></title>
+        <id>https://arxiv.org/abs/2611.16671</id>
+        <link href="https://arxiv.org/abs/2611.16671"/>
+        <updated>2026-11-13T05:09:12.328Z</updated>
+        <content type="html"><![CDATA[Planning for a heterogeneous <span class="search-hit mathjax">robot</span> team from a scene image and an instruction involves two kinds of decisions. Some must be judged from the scene: which goals are already met, how the task splits, and which…
+        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2611.16671v1-abstract-full').style.display = 'inline'; document.getElementById('2611.16671v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study (ArXiv Search)]]></title>
-        <id>https://arxiv.org/abs/2610.18869</id>
-        <link href="https://arxiv.org/abs/2610.18869"/>
-        <updated>2026-10-14T10:30:08.333Z</updated>
-        <content type="html"><![CDATA[How should demonstration quality be used during vision-language-action (VLA) pretraining to improve performance after target-task fine-tuning? We compare weighting, filtering, and conditioning across reward definitions and label granularities using 5,000 naturally suboptimal human demonstrations and 24 target tasks. Within each VLA, we match demonstrations and training budgets. Additional comparis…
-        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2610.18869v1-abstract-full').style.display = 'inline'; document.getElementById('2610.18869v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
+        <title type="html"><![CDATA[People prefer AI to human advice in multi-turn conversations but neither changes incentivised behaviour (ArXiv Search)]]></title>
+        <id>https://arxiv.org/abs/2611.16667</id>
+        <link href="https://arxiv.org/abs/2611.16667"/>
+        <updated>2026-11-13T05:09:12.328Z</updated>
+        <content type="html"><![CDATA[People increasingly ask <span class="search-hit mathjax">AI</span> chatbots for advice, yet large language models (LLMs) are sycophantic, overconfident, and can amplify human cognitive biases. In this article, we investigate how people perceive advice from humans versus LLMs and whether…
+        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2611.16667v1-abstract-full').style.display = 'inline'; document.getElementById('2611.16667v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards (ArXiv Search)]]></title>
-        <id>https://arxiv.org/abs/2610.18868</id>
-        <link href="https://arxiv.org/abs/2610.18868"/>
-        <updated>2026-10-14T10:30:08.334Z</updated>
-        <content type="html"><![CDATA[Long-horizon agents have drawn growing attention for their ability to work autonomously -- from hours to days -- on economically valuable tasks, a capability essential to automated discovery and recursive self-improvement (RSI). Yet open-source models still struggle on long-horizon tasks, largely for lack of both training data and a working recipe, and scaling both is hard: long, complex tasks are…
-        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2610.18868v1-abstract-full').style.display = 'inline'; document.getElementById('2610.18868v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
+        <title type="html"><![CDATA[Natural Gradient Learning in Predictive Coding through Lateral Circuits (ArXiv Search)]]></title>
+        <id>https://arxiv.org/abs/2611.16666</id>
+        <link href="https://arxiv.org/abs/2611.16666"/>
+        <updated>2026-11-13T05:09:12.328Z</updated>
+        <content type="html"><![CDATA[Predictive coding (PC) trains neural networks through local energy-minimization dynamics without depending on a global error signal that backpropagation (BP) requires. Although PC is a promising alternative algorithm for efficient learning, the computational cost of inference dynamics currently outweighs the resulting learning benefits in practice. In this work, we take inspiration from optimizati…
+        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2611.16666v1-abstract-full').style.display = 'inline'; document.getElementById('2611.16666v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EmbodiedEvo: Self-improving Coding Agents for Physical Intelligence (ArXiv Search)]]></title>
-        <id>https://arxiv.org/abs/2610.18867</id>
-        <link href="https://arxiv.org/abs/2610.18867"/>
-        <updated>2026-10-14T10:30:08.334Z</updated>
-        <content type="html"><![CDATA[Bringing general-purpose agents into the physical world calls for an executable representation of physical <span class="search-hit mathjax">intelligence</span>. Compared with vision-language-action (VLA) models, which map observations and language instructions directly to actions, code makes control logic explicit and reusable. Code can serve not only as a policy representation but also as the wor…
-        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2610.18867v1-abstract-full').style.display = 'inline'; document.getElementById('2610.18867v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
+        <title type="html"><![CDATA[MuSeToM: Multi-Sensory Evaluation of Belief Revision with Textual Cues Across Six Senses (ArXiv Search)]]></title>
+        <id>https://arxiv.org/abs/2611.16662</id>
+        <link href="https://arxiv.org/abs/2611.16662"/>
+        <updated>2026-11-13T05:09:12.328Z</updated>
+        <content type="html"><![CDATA[Theory of Mind (ToM), the ability to infer mental states in others, is pivotal for human social cognition. Existing evaluations of ToM in large language models (LLMs) mainly focus on static belief attribution and false-belief reasoning, leaving a critical aspect of social reasoning underexplored: can LLMs decide whether perceptual evidence is sufficient to justify another person's belief revision?…
+        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2611.16662v1-abstract-full').style.display = 'inline'; document.getElementById('2611.16662v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AutoAgent0: An Agentic Runtime for Safe Closed-Loop Driving (ArXiv Search)]]></title>
-        <id>https://arxiv.org/abs/2610.18866</id>
-        <link href="https://arxiv.org/abs/2610.18866"/>
-        <updated>2026-10-14T10:30:08.334Z</updated>
-        <content type="html"><![CDATA[Safe autonomous driving requires more than accurate planning at a single frame: it demands reliable closed-loop execution in dynamic environments. Although end-to-end driving policies have advanced rapidly, the accumulated closed-loop errors, especially in unseen scenarios, can push vehicles into states from which the same policy struggles to recover. We address the challenge by treating closed-lo…
-        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2610.18866v1-abstract-full').style.display = 'inline'; document.getElementById('2610.18866v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
+        <title type="html"><![CDATA[Reducing Batch Makespan for LLM Agent Workloads through Inference-Environment Coordination (ArXiv Search)]]></title>
+        <id>https://arxiv.org/abs/2611.16661</id>
+        <link href="https://arxiv.org/abs/2611.16661"/>
+        <updated>2026-11-13T05:09:12.328Z</updated>
+        <content type="html"><![CDATA[Efficient batch execution of agent tasks is critical to LLM training and development workflows, including benchmark evaluation, synthetic-data generation, and RL rollouts. Since these tasks alternate between LLM inference and environment interaction, we present coordinated optimizations to reduce batch makespan, the time required to complete all tasks in a batch. For hybrid LLMs, a workload-based…
+        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2611.16661v1-abstract-full').style.display = 'inline'; document.getElementById('2611.16661v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning (ArXiv Search)]]></title>
-        <id>https://arxiv.org/abs/2610.18862</id>
-        <link href="https://arxiv.org/abs/2610.18862"/>
-        <updated>2026-10-14T10:30:08.334Z</updated>
-        <content type="html"><![CDATA[Reasoning models achieve strong performance through long chains of thought (CoT), but often spend more tokens than needed to solve a problem. Existing ways to shorten the CoT require additional training for each model, add a fixed steering vector to the model's hidden states, or use decoding heuristics such as stopping early or banning words like "wait", which can reduce accuracy. We propose Doubt…
-        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2610.18862v1-abstract-full').style.display = 'inline'; document.getElementById('2610.18862v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
+        <title type="html"><![CDATA[Autonomous Mobile Robots on a Computing Field (ArXiv Search)]]></title>
+        <id>https://arxiv.org/abs/2611.16652</id>
+        <link href="https://arxiv.org/abs/2611.16652"/>
+        <updated>2026-11-13T05:09:12.328Z</updated>
+        <content type="html"><![CDATA[We introduce CABOT, a computational model for autonomous mobile <span class="search-hit mathjax">robots</span> in which the discrete plane the…
+        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2611.16652v1-abstract-full').style.display = 'inline'; document.getElementById('2611.16652v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hybrid Reasoning Agents (ArXiv Search)]]></title>
-        <id>https://arxiv.org/abs/2610.18861</id>
-        <link href="https://arxiv.org/abs/2610.18861"/>
-        <updated>2026-10-14T10:30:08.337Z</updated>
-        <content type="html"><![CDATA[How can we build an agent that thinks beyond human language, yet still acts through it in the external environment? Modern LLM agents still reason and interact through text, while latent reasoning offers an efficient internal medium but lacks native tool access and reasoning transparency. We bridge these two directions with Hybrid Reasoning Agents (HybridAgents), which dynamically navigate between…
-        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2610.18861v1-abstract-full').style.display = 'inline'; document.getElementById('2610.18861v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
+        <title type="html"><![CDATA[InertiaMPDD: Multimodal Personalized Depression Detection via Emotional Inertia-Inspired Dynamics Modeling (ArXiv Search)]]></title>
+        <id>https://arxiv.org/abs/2611.16647</id>
+        <link href="https://arxiv.org/abs/2611.16647"/>
+        <updated>2026-11-13T05:09:12.328Z</updated>
+        <content type="html"><![CDATA[Multimodal depression screening estimates risk from speech, visual behavior and language. Current methods mainly predict labels, with limited evidence of departures from a non-depressed reference. Recording-level supervision also leaves fine-grained emotional dynamics unannotated. Motivated by emotional inertia, the persistence of affect, InertiaMPDD learns healthy next-state patterns using a worl…
+        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2611.16647v1-abstract-full').style.display = 'inline'; document.getElementById('2611.16647v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AesCode: Aesthetic Code Generation with Decoupled Cross-Modal Rewards (ArXiv Search)]]></title>
-        <id>https://arxiv.org/abs/2610.18860</id>
-        <link href="https://arxiv.org/abs/2610.18860"/>
-        <updated>2026-10-14T10:30:08.339Z</updated>
-        <content type="html"><![CDATA[Generating information-rich visual artifacts such as slides, posters, and dashboards as code is appealing because the outputs are structured, editable, and verifiable. Yet code models cannot see how their choices of layout and color come together on the canvas, often limiting spatial planning and aesthetic quality. Image generators excel at visual design but can misrender requested content, making…
-        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2610.18860v1-abstract-full').style.display = 'inline'; document.getElementById('2610.18860v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
+        <title type="html"><![CDATA[Rethinking Actions: Continuity-Aware Priors for World-Model Planning (ArXiv Search)]]></title>
+        <id>https://arxiv.org/abs/2611.16645</id>
+        <link href="https://arxiv.org/abs/2611.16645"/>
+        <updated>2026-11-13T05:09:12.329Z</updated>
+        <content type="html"><![CDATA[Actions in expert demonstrations exhibit temporal structure. An ordered-versus-shuffled analysis across five environments confirms this dependence. We ask whether action proposals that better reflect expert continuity can improve visual world-model planning. Rather than imposing generic smoothness, we learn continuations from the temporal structure of demonstrated actions. Our locality-gated deep-…
+        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2611.16645v1-abstract-full').style.display = 'inline'; document.getElementById('2611.16645v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Interaction Latents as Actions for Contact-Rich Manipulation (ArXiv Search)]]></title>
-        <id>https://arxiv.org/abs/2610.18855</id>
-        <link href="https://arxiv.org/abs/2610.18855"/>
-        <updated>2026-10-14T10:30:08.341Z</updated>
-        <content type="html"><![CDATA[Contact-rich manipulation requires <span class="search-hit mathjax">robots</span> to coordinate not only where to move, but also how contact and force should evolve throughout an interaction. Yet most <span class="search-hit mathjax">robot</span> policies represent actions primarily as motion trajectories, using tactile signals as inputs or auxiliary prediction targets without explicitly encoding…
-        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2610.18855v1-abstract-full').style.display = 'inline'; document.getElementById('2610.18855v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
+        <title type="html"><![CDATA[Empowering AI towards 6G: Realistic UAV Channel Data Acquisition using Open-Source Solutions (ArXiv Search)]]></title>
+        <id>https://arxiv.org/abs/2611.16644</id>
+        <link href="https://arxiv.org/abs/2611.16644"/>
+        <updated>2026-11-13T05:09:12.330Z</updated>
+        <content type="html"><![CDATA[The "sim-to-real" gap introduced by hardware impairments motivates realistic experimental platforms for <span class="search-hit mathjax">AI</span>-native research in Non-Terrestrial Networks (NTN). This paper presents an open-source UAV-to-Ground measurement testbed built on the OpenAirInterface (OAI) stack and commodity Software Defined Radios (SDRs), enabling direct extraction of raw Sub…
+        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2611.16644v1-abstract-full').style.display = 'inline'; document.getElementById('2611.16644v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Two Clocks: Why Larger Rollout Batches Learn Slower but Fail on Schedule in Reinforcement Learning with Verifiable Rewards (ArXiv Search)]]></title>
-        <id>https://arxiv.org/abs/2610.18853</id>
-        <link href="https://arxiv.org/abs/2610.18853"/>
-        <updated>2026-10-14T10:30:08.342Z</updated>
-        <content type="html"><![CDATA[Reinforcement learning with verifiable rewards (RLVR) relies on costly model-generated responses, motivating larger rollout batches and square-root learning-rate scaling. Reported to approximately preserve progress per sample with one optimizer step per rollout, this rule is less understood in practical multi-step training. We develop a two-clock framework that separates the samples needed to make…
-        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2610.18853v1-abstract-full').style.display = 'inline'; document.getElementById('2610.18853v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
+        <title type="html"><![CDATA[Dataset Distillation via Drifting (ArXiv Search)]]></title>
+        <id>https://arxiv.org/abs/2611.16642</id>
+        <link href="https://arxiv.org/abs/2611.16642"/>
+        <updated>2026-11-13T05:09:12.331Z</updated>
+        <content type="html"><![CDATA[The task of dataset distillation concerns the learning of a small set of synthetic samples that can serve as an effective replacement for a large real dataset when used for downstream tasks. While many solutions have been proposed since the problem's inception, most of them primarily seek to optimize the distilled data with respect to a classifier. In this work, we propose a new distillation metho…
+        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2611.16642v1-abstract-full').style.display = 'inline'; document.getElementById('2611.16642v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ForceWAM: Decoupling Future and Response Learning from Demo and Play Data for Contact-Rich Manipulation (ArXiv Search)]]></title>
-        <id>https://arxiv.org/abs/2610.18852</id>
-        <link href="https://arxiv.org/abs/2610.18852"/>
-        <updated>2026-10-14T10:30:08.344Z</updated>
-        <content type="html"><![CDATA[…during the task. A separate inverse dynamics model (IDM) learns from both task and play, mapping current observations and recorded visual-wrench futures to their associated <span class="search-hit mathjax">robot</span> actions. Play data thus provide knowledge of force responses for goal-directed execution. At deployment, the IDM reactively translates generated futures into actions, reusing them w…
-        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2610.18852v1-abstract-full').style.display = 'inline'; document.getElementById('2610.18852v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
+        <title type="html"><![CDATA[Reins: Frontier Multimodal Models Driving Real Robot Arms on Long-Horizon Tasks, Zero-Shot (ArXiv Search)]]></title>
+        <id>https://arxiv.org/abs/2611.16632</id>
+        <link href="https://arxiv.org/abs/2611.16632"/>
+        <updated>2026-11-13T05:09:12.337Z</updated>
+        <content type="html"><![CDATA[Frontier models such as GPT-6.1 Sol, GPT-6 Astra and Claude Opus 5.5 can now plan and call tools, yet they still struggle to drive real <span class="search-hit mathjax">robots</span> through long-horizon, contact-rich manipulation, blind while the arm moves and while they think. We present Reins, a harness in which an off-the-shelf model operates a dual-arm…
+        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2611.16632v1-abstract-full').style.display = 'inline'; document.getElementById('2611.16632v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MFG: Multi-turn Feedback Guided Molecular Optimization (ArXiv Search)]]></title>
-        <id>https://arxiv.org/abs/2610.18851</id>
-        <link href="https://arxiv.org/abs/2610.18851"/>
-        <updated>2026-10-14T10:30:08.346Z</updated>
-        <content type="html"><![CDATA[Multi-objective molecular optimization is a critical process in drug discovery that aims to modify a given molecule to simultaneously improve multiple properties while maintaining a similar overall structure. This process often requires iterative modifications guided by computational or experimental feedback. Recent large language model (LLM)-based methods have begun to explore this iterative appr…
-        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2610.18851v1-abstract-full').style.display = 'inline'; document.getElementById('2610.18851v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
+        <title type="html"><![CDATA[When Chekhov's Gun Fires Anyway: Over-Realization in Text-to-Image Models (ArXiv Search)]]></title>
+        <id>https://arxiv.org/abs/2611.16630</id>
+        <link href="https://arxiv.org/abs/2611.16630"/>
+        <updated>2026-11-13T05:09:12.338Z</updated>
+        <content type="html"><![CDATA[In text-to-image generation, a target that the prompt mentions often appears in the generated image in a way the prompt does not call for. We call this failure over-realization. Mental-spaces theory points to the situations where it can happen: under a negation, inside what a character believes or imagines, as the vehicle of a figurative comparison, or behind a viewpoint that hides the target. Pri…
+        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2611.16630v1-abstract-full').style.display = 'inline'; document.getElementById('2611.16630v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Collaborative Planning for UAV-UGV Teams under Operational Constraints via Masked Error-bounded Neuro-Symbolic Diffusion (ArXiv Search)]]></title>
-        <id>https://arxiv.org/abs/2610.18850</id>
-        <link href="https://arxiv.org/abs/2610.18850"/>
-        <updated>2026-10-14T10:30:08.348Z</updated>
-        <content type="html"><![CDATA[Collaborative planning under operational constraints is essential for heterogeneous <span class="search-hit mathjax">robot</span> teams in large-scale missions. Unmanned Aerial Vehicles (UAVs) provide rapid area coverage but are limited by onboard energy, while Unmanned Ground Vehicles (UGVs) can serve as mobile recharging stations yet are constrained by road-network traversability. Effective coll…
-        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2610.18850v1-abstract-full').style.display = 'inline'; document.getElementById('2610.18850v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
+        <title type="html"><![CDATA[Safety as a Budget: Calibrating the Control Channel of Constrained GRPO for Vision-Language Models (ArXiv Search)]]></title>
+        <id>https://arxiv.org/abs/2611.16628</id>
+        <link href="https://arxiv.org/abs/2611.16628"/>
+        <updated>2026-11-13T05:09:12.339Z</updated>
+        <content type="html"><![CDATA[Reinforcement learning can teach vision-language models (VLMs) to decline harmful image-text requests, but how safe the result becomes is set indirectly, through reward weights found by trial runs. Stating safety as budgets on the rate of harmful assistance and the rate of over-refusal, enforced by Lagrange multipliers inside GRPO with an off-the-shelf scorer as the cost, is the natural fix, and i…
+        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2611.16628v1-abstract-full').style.display = 'inline'; document.getElementById('2611.16628v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Contact Trajectory Prompting: In-Context Transfer of Contact-Rich Behaviors from a Single Demonstration (ArXiv Search)]]></title>
-        <id>https://arxiv.org/abs/2610.18848</id>
-        <link href="https://arxiv.org/abs/2610.18848"/>
-        <updated>2026-10-14T10:30:08.350Z</updated>
-        <content type="html"><![CDATA[In-context <span class="search-hit mathjax">robot</span> learning enables…
-        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2610.18848v1-abstract-full').style.display = 'inline'; document.getElementById('2610.18848v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
+        <title type="html"><![CDATA[Folio: Recoverable Multi-Resolution Context Folding for Long-Horizon Language Agents (ArXiv Search)]]></title>
+        <id>https://arxiv.org/abs/2611.16627</id>
+        <link href="https://arxiv.org/abs/2611.16627"/>
+        <updated>2026-11-13T05:09:12.340Z</updated>
+        <content type="html"><![CDATA[Long-horizon language agents accumulate tool results and replies until the history no longer fits the context window. Current agents shrink this history by having a model summarize it, so each compaction rereads and rewrites the history it replaces, and cache-aware triggers decide when to compact while taking the size of the result as given. We present Folio, a context manager that records, folds,…
+        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2611.16627v1-abstract-full').style.display = 'inline'; document.getElementById('2611.16627v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LIBERO-RIG: A Hardware-Setup Robustness Benchmark for Vision-Language-Action Models (ArXiv Search)]]></title>
-        <id>https://arxiv.org/abs/2610.18843</id>
-        <link href="https://arxiv.org/abs/2610.18843"/>
-        <updated>2026-10-14T10:30:08.351Z</updated>
-        <content type="html"><![CDATA[<span class="search-hit mathjax">Robot</span> policies are expected to generalize across deployment environments, including variations in the…
-        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2610.18843v1-abstract-full').style.display = 'inline'; document.getElementById('2610.18843v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
+        <title type="html"><![CDATA[Studies on Sign Language Retrieval in Low-Resource Dictionary Settings (ArXiv Search)]]></title>
+        <id>https://arxiv.org/abs/2611.16621</id>
+        <link href="https://arxiv.org/abs/2611.16621"/>
+        <updated>2026-11-13T05:09:12.341Z</updated>
+        <content type="html"><![CDATA[Most sign languages have no annotated corpus, only small dictionaries with one or a few example videos per sign. This study examines how well a pose encoder trained on a single sign language serves such languages without any target-language training.
+  An encoder trained with metric learning on American Sign Language (ASL-Citizen) is evaluated frozen on six datasets of Turkish, Russian, Indian, Ar…
+        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2611.16621v1-abstract-full').style.display = 'inline'; document.getElementById('2611.16621v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Who Improves the Robot? Toward Physical Recursive Self-Improvement (ArXiv Search)]]></title>
-        <id>https://arxiv.org/abs/2610.18842</id>
-        <link href="https://arxiv.org/abs/2610.18842"/>
-        <updated>2026-10-14T10:30:08.353Z</updated>
-        <content type="html"><![CDATA[<span class="search-hit mathjax">Robots</span> are increasingly autonomous in task execution, yet their improvement remains largely human-driven. This study investigates Physical Recursive Self-Improvement (Physical RSI), in which physical experience guides lasting updates to both a…
-        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2610.18842v1-abstract-full').style.display = 'inline'; document.getElementById('2610.18842v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
+        <title type="html"><![CDATA[Unibuc - NLP at "Voight-Kampff" Generative AI Detection PAN 2025 (ArXiv Search)]]></title>
+        <id>https://arxiv.org/abs/2611.16612</id>
+        <link href="https://arxiv.org/abs/2611.16612"/>
+        <updated>2026-11-13T05:09:12.342Z</updated>
+        <content type="html"><![CDATA[This paper describes the approach of the Unibuc - NLP team in tackling the "Voight-Kampff" Generative <span class="search-hit mathjax">AI</span> Detection task from PAN at CLEF 2025. In the Subtask 1: Voight-Kampff…
+        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2611.16612v1-abstract-full').style.display = 'inline'; document.getElementById('2611.16612v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fast Rates for Offline Q-Learning with KL Regularization (ArXiv Search)]]></title>
-        <id>https://arxiv.org/abs/2610.18839</id>
-        <link href="https://arxiv.org/abs/2610.18839"/>
-        <updated>2026-10-14T10:30:08.355Z</updated>
-        <content type="html"><![CDATA[This paper investigates offline Q-learning for finite-horizon Markov decision processes with Kullback-Leibler (KL) regularization. Recent studies have shown that KL regularization can yield fast rates in offline decision-making problems. However, it remains unclear whether Q-learning, which adopts incremental stochastic approximation updates, can achieve such fast rates in the offline setting. We…
-        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2610.18839v1-abstract-full').style.display = 'inline'; document.getElementById('2610.18839v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
+        <title type="html"><![CDATA[A Dual-Branch Graph and Convolutional Network for Interpretable Movement EEG Classification (ArXiv Search)]]></title>
+        <id>https://arxiv.org/abs/2611.16609</id>
+        <link href="https://arxiv.org/abs/2611.16609"/>
+        <updated>2026-11-13T05:09:12.344Z</updated>
+        <content type="html"><![CDATA[Decoding upper-limb movements from scalp electroencephalography (EEG) is an important problem for brain-computer interfaces (BCIs), but many deep learning models provide limited insight into the brain regions underlying their predictions. We propose a two-branch architecture that combines an LGGNet-inspired local-global graph branch with an EEGNet-style convolutional branch for movement-versus-res…
+        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2611.16609v1-abstract-full').style.display = 'inline'; document.getElementById('2611.16609v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Plan-Bench: Can Existing VLMs Go Well Beyond Perception to Reason and Plan in Embodied Worlds? (ArXiv Search)]]></title>
-        <id>https://arxiv.org/abs/2610.18836</id>
-        <link href="https://arxiv.org/abs/2610.18836"/>
-        <updated>2026-10-14T10:30:08.356Z</updated>
-        <content type="html"><![CDATA[…Models (VLMs) have achieved strong performance in visual perception and spatial reasoning, leading to growing interest in using them as high-level planners for embodied <span class="search-hit mathjax">AI</span>. However, physical tasks require models to integrate spatial information, reason over temporal states, and generate multi-step plans under various constraints, raising the question of whet…
-        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2610.18836v1-abstract-full').style.display = 'inline'; document.getElementById('2610.18836v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
+        <title type="html"><![CDATA[Singularity-Bench: Can Agents Build Agents? (ArXiv Search)]]></title>
+        <id>https://arxiv.org/abs/2611.16591</id>
+        <link href="https://arxiv.org/abs/2611.16591"/>
+        <updated>2026-11-13T05:09:12.345Z</updated>
+        <content type="html"><![CDATA[Frontier <span class="search-hit mathjax">AI</span> agents increasingly succeed on realistic, long-horizon tasks and are beginning to improve the systems through which they operate. Yet existing benchmarks often restrict agents to narrow action spaces, use simplified environments, or rely on verification methods that are unreliable for evaluating arbitrary agent-generated systems. We introduce Sin…
+        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2611.16591v1-abstract-full').style.display = 'inline'; document.getElementById('2611.16591v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RoboSimStudio: An Interactive Toolkit for Rapid Real2Sim of Robot Manipulation Tasks (ArXiv Search)]]></title>
-        <id>https://arxiv.org/abs/2610.18835</id>
-        <link href="https://arxiv.org/abs/2610.18835"/>
-        <updated>2026-10-14T10:30:08.360Z</updated>
-        <content type="html"><![CDATA[It is difficult to accurately model the physics of the interaction between a <span class="search-hit mathjax">robot</span> and the objects it manipulates, including contact mechanics, coupled contact dynamics, deformations, stiffness and friction. We present RoboSimStudio (RSS), an interactive toolkit that makes choices of solver, contact model, and physical parameters explicit and editable, allow…
-        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2610.18835v1-abstract-full').style.display = 'inline'; document.getElementById('2610.18835v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
+        <title type="html"><![CDATA[AstroMemBench: A Benchmark for Memory Systems in Embodied Spacecraft Agents (ArXiv Search)]]></title>
+        <id>https://arxiv.org/abs/2611.16590</id>
+        <link href="https://arxiv.org/abs/2611.16590"/>
+        <updated>2026-11-13T05:09:12.346Z</updated>
+        <content type="html"><![CDATA[Long-term spacecraft autonomy requires embodied agents to use operational history under communication delays, time-critical operations, environmental uncertainty, complex physical interactions, power and computational constraints, and safety and reliability requirements. We introduce AstroMemBench and a Scenario-Challenge-Capability design method that maps these requirements to executable memory t…
+        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2611.16590v1-abstract-full').style.display = 'inline'; document.getElementById('2611.16590v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WorldOracle: Benchmarking Action-Conditioned World Models against Real-World Executions (ArXiv Search)]]></title>
-        <id>https://arxiv.org/abs/2610.18826</id>
-        <link href="https://arxiv.org/abs/2610.18826"/>
-        <updated>2026-10-14T10:30:08.362Z</updated>
-        <content type="html"><![CDATA[We introduce WorldOracle, a benchmark specifically designed to evaluate action-conditioned world models (ACWMs) against paired real-world executions. Given the same initial observation and low-level action sequence, WorldOracle asks whether a predicted rollout reproduces what happens in the real world, including physical consequences and task-state transitions. We evaluate models along four comple…
-        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2610.18826v1-abstract-full').style.display = 'inline'; document.getElementById('2610.18826v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
+        <title type="html"><![CDATA[STVLA: Spatial-aware and Temporal-memory forVision-Language-Action Models (ArXiv Search)]]></title>
+        <id>https://arxiv.org/abs/2611.16589</id>
+        <link href="https://arxiv.org/abs/2611.16589"/>
+        <updated>2026-11-13T05:09:12.347Z</updated>
+        <content type="html"><![CDATA[<span class="search-hit mathjax">Robotic</span> manipulation often requires both spatial scene understanding and task history. However, many vision-language-action (VLA) policies rely primarily on current observations, without explicitly integrating spatial structure and task history. Appearance-based memories can be sensitive to occlusion and viewpoint changes, while spatial representations of th…
+        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2611.16589v1-abstract-full').style.display = 'inline'; document.getElementById('2611.16589v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EgoMatrix: Physically Faithful Dexterous Robot Demonstrations from Egocentric Human Videos (ArXiv Search)]]></title>
-        <id>https://arxiv.org/abs/2610.18822</id>
-        <link href="https://arxiv.org/abs/2610.18822"/>
-        <updated>2026-10-14T10:30:08.363Z</updated>
-        <content type="html"><![CDATA[Egocentric human videos offer a scalable alternative to <span class="search-hit mathjax">robot</span> teleoperation for collecting dexterous manipulation data. However, two challenges limit their use as reliable training data: accurate hand-object interaction (HOI) reconstruction from monocular RGB and high-quality…
-        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2610.18822v1-abstract-full').style.display = 'inline'; document.getElementById('2610.18822v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
+        <title type="html"><![CDATA[Large Language Models as Digital Twins: a Distribution-Aware Questionnaire-Based Evaluation (ArXiv Search)]]></title>
+        <id>https://arxiv.org/abs/2611.16586</id>
+        <link href="https://arxiv.org/abs/2611.16586"/>
+        <updated>2026-11-13T05:09:12.350Z</updated>
+        <content type="html"><![CDATA[This paper investigates whether Large Language Models can answer a personality questionnaire as a specific individual would. Given a user's social-media posts, the model completes the BFI-2-60 Big Five questionnaire as that user. The predicted responses are converted into trait scores and compared with the user's actual scores. We evaluate GPT-4, Gemma, Llama 3.1, and Mistral on the MyPersonality…
+        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2611.16586v1-abstract-full').style.display = 'inline'; document.getElementById('2611.16586v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Read the Room Before Your Model Generates (ArXiv Search)]]></title>
-        <id>https://arxiv.org/abs/2610.18820</id>
-        <link href="https://arxiv.org/abs/2610.18820"/>
-        <updated>2026-10-14T10:30:08.366Z</updated>
-        <content type="html"><![CDATA[Large language models (LLMs) generally rely on sampling temperature to regulate the amount of randomness in their outputs. Mainstream methods for selecting temperature typically involve fixed, heuristic global settings and context or token-level calibration, rather than a geometrically interpretable representation of the communicative scenario. In this work, we introduce a simple and interpretable…
-        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2610.18820v1-abstract-full').style.display = 'inline'; document.getElementById('2610.18820v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
+        <title type="html"><![CDATA[ReFineR: Single image to dense point cloud registration at pixel level with point splatting (ArXiv Search)]]></title>
+        <id>https://arxiv.org/abs/2611.16583</id>
+        <link href="https://arxiv.org/abs/2611.16583"/>
+        <updated>2026-11-13T05:09:12.351Z</updated>
+        <content type="html"><![CDATA[…accurate geometric measurements. In this work, we address the problem of fine image-to-point cloud registration from a single image and a roughly estimated camera pose. On <span class="search-hit mathjax">robotic</span> platforms, residual reprojection errors of several pixels are commonly observed even after calibration due to temporal desynchronization, mechanical vibrations, or inaccuracies in…
+        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2611.16583v1-abstract-full').style.display = 'inline'; document.getElementById('2611.16583v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Back-Translation Still Matters: Leveraging Monolingual Data for Low-Resource Machine Translation with LLMs (ArXiv Search)]]></title>
-        <id>https://arxiv.org/abs/2610.18818</id>
-        <link href="https://arxiv.org/abs/2610.18818"/>
-        <updated>2026-10-14T10:30:08.367Z</updated>
-        <content type="html"><![CDATA[Pre-trained Large Language Model (LLMs) are effective on many tasks in zero-shot and few-shot settings. For machine translation of low-resource languages, the obvious options are few-shot prompting and fine-tuning on a small parallel set. We ask: what if moderate amounts of low-resource monolingual data are also available? We argue that, rather than continued pretraining, a more effective use of t…
-        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2610.18818v1-abstract-full').style.display = 'inline'; document.getElementById('2610.18818v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
+        <title type="html"><![CDATA[Can STATCOM and UPS-Based Voltage Support Mitigate Fault-Induced Reductions in AI Data Center Grid Power Draw? (ArXiv Search)]]></title>
+        <id>https://arxiv.org/abs/2611.16569</id>
+        <link href="https://arxiv.org/abs/2611.16569"/>
+        <updated>2026-11-13T05:09:12.352Z</updated>
+        <content type="html"><![CDATA[<span class="search-hit mathjax">Artificial</span> <span class="search-hit mathjax">intelligence</span> data centers (AIDCs) are rapidly increasing in number and capacity. These large electronic loads are interfaced through power electronic devices and can sharply reduce grid power intake during fault-induced voltage sags. Disturbances exceeding equipment ride-through capabilities may also trigger…
+        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2611.16569v1-abstract-full').style.display = 'inline'; document.getElementById('2611.16569v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[On the coincidence of discrete and continuous definitions of Entanglement of Formation (ArXiv Search)]]></title>
-        <id>https://arxiv.org/abs/2610.18816</id>
-        <link href="https://arxiv.org/abs/2610.18816"/>
-        <updated>2026-10-14T10:30:08.369Z</updated>
-        <content type="html"><![CDATA[…Formation coincide on the whole space of states of infinite-dimensional bipartite quantum system (with infinite values allowed).
-  The main idea of the proof (realized with the <span class="search-hit mathjax">AI</span>-assistance) is the identification of a Borel ensemble of pure bipartite states with a Borel probability measure on the unit sphere of the space of Hilbert--Schmidt operators follow…
-        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2610.18816v1-abstract-full').style.display = 'inline'; document.getElementById('2610.18816v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
+        <title type="html"><![CDATA[SPARC: Accurate Photonic Matrix Multiplication via Representative Vectors (ArXiv Search)]]></title>
+        <id>https://arxiv.org/abs/2611.16561</id>
+        <link href="https://arxiv.org/abs/2611.16561"/>
+        <updated>2026-11-13T05:09:12.353Z</updated>
+        <content type="html"><![CDATA[Photonic neural network accelerators have emerged as a promising solution for reducing the power consumption of deep neural network (DNN) inference by executing matrix multiplication on analog photonic hardware. However, their inference accuracy is limited by low-bit quantization required for photonic processing and by analog photonic noise. This paper proposes an approach for improving inference…
+        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2611.16561v1-abstract-full').style.display = 'inline'; document.getElementById('2611.16561v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Self-Evolving Agent Harness (ArXiv Search)]]></title>
-        <id>https://arxiv.org/abs/2610.18813</id>
-        <link href="https://arxiv.org/abs/2610.18813"/>
-        <updated>2026-10-14T10:30:08.370Z</updated>
-        <content type="html"><![CDATA[Harness self-evolution revises an agent's software scaffolding, including prompts, memory, workflows, and executable components, while keeping model weights fixed. We formalize a feedback-driven process in which accepted revisions persist across runs. The framework separates update targets from proposal and admission mechanisms. It distinguishes changes to interpreted state from revisions to tools…
-        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2610.18813v1-abstract-full').style.display = 'inline'; document.getElementById('2610.18813v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
+        <title type="html"><![CDATA[Pl@ntNet machine-to-machine identification service with Pl@ntNet API: enabling automated biodiversity monitoring through large-scale plant identification (ArXiv Search)]]></title>
+        <id>https://arxiv.org/abs/2611.16538</id>
+        <link href="https://arxiv.org/abs/2611.16538"/>
+        <updated>2026-11-13T05:09:12.355Z</updated>
+        <content type="html"><![CDATA[1. Monitoring plant biodiversity requires identifying large numbers of plants across space and time. Although <span class="search-hit mathjax">artificial</span>…
+        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2611.16538v1-abstract-full').style.display = 'inline'; document.getElementById('2611.16538v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Optimizing Team Behavior via Extremum-seeking Control in Multi-agent Reinforcement Learning (ArXiv Search)]]></title>
-        <id>https://arxiv.org/abs/2610.18808</id>
-        <link href="https://arxiv.org/abs/2610.18808"/>
-        <updated>2026-10-14T10:30:08.372Z</updated>
-        <content type="html"><![CDATA[In cooperative Multi-Agent Reinforcement Learning (MARL), agents must learn to coordinate their actions to achieve shared objectives. A key indicator of effective coordination is behavioral diversity, i.e., the agents' potential to enact distinct yet complementary control policies given the same set of observations. Although behavioral diversity can enable role specialization and richer joint beha…
-        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2610.18808v1-abstract-full').style.display = 'inline'; document.getElementById('2610.18808v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
+        <title type="html"><![CDATA[AI has its own style in mathematical proving (ArXiv Search)]]></title>
+        <id>https://arxiv.org/abs/2611.16527</id>
+        <link href="https://arxiv.org/abs/2611.16527"/>
+        <updated>2026-11-13T05:09:12.356Z</updated>
+        <content type="html"><![CDATA[…of Euclid's \textit{Elements} and compare their citation choices against the human-proof baseline through Jaccard similarity and complex network analysis. We find that <span class="search-hit mathjax">AI</span>-generated proofs differ from human proofs, and this difference is stable and reproducible: mean pairwise Jaccard similarity among…
+        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2611.16527v1-abstract-full').style.display = 'inline'; document.getElementById('2611.16527v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SEAR: Self-Evolving Agentic Robotics (ArXiv Search)]]></title>
-        <id>https://arxiv.org/abs/2610.18792</id>
-        <link href="https://arxiv.org/abs/2610.18792"/>
-        <updated>2026-10-14T10:30:08.374Z</updated>
-        <content type="html"><![CDATA[Frontier language-model agents can now improve <span class="search-hit mathjax">robots</span> on their own: they write control code, test it, and keep what works as skills and memories for the next task. We introduce SEAR (Self-Evolving Agentic…
-        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2610.18792v1-abstract-full').style.display = 'inline'; document.getElementById('2610.18792v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
+        <title type="html"><![CDATA[Lost in Delegation: Studying the Effectiveness of Task Orchestration in Generative Search (ArXiv Search)]]></title>
+        <id>https://arxiv.org/abs/2611.16526</id>
+        <link href="https://arxiv.org/abs/2611.16526"/>
+        <updated>2026-11-13T05:09:12.357Z</updated>
+        <content type="html"><![CDATA[LLMs have quickly evolved from models used in isolation to agentic systems that delegate tasks to external tools and other LLMs to solve complex assignments. This agentic augmentation has led to impressive capability gains. However, when and how delegation improves performance remains poorly understood. For example, it is unclear whether delegation helps when tasks involve post-cutoff information…
+        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2611.16526v1-abstract-full').style.display = 'inline'; document.getElementById('2611.16526v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EqC: Equilibrium Energy Control for Introspective Lifelong Robot Learning (ArXiv Search)]]></title>
-        <id>https://arxiv.org/abs/2610.18790</id>
-        <link href="https://arxiv.org/abs/2610.18790"/>
-        <updated>2026-10-14T10:30:08.377Z</updated>
-        <content type="html"><![CDATA[Long-term <span class="search-hit mathjax">robot</span> autonomy depends on more than effective action generation: a policy must recognize when its behavior is no longer sufficiently supported and use assistance to improve. We introduce Equilibrium Energy Control (EqC), a framework for introspective lifelong…
-        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2610.18790v1-abstract-full').style.display = 'inline'; document.getElementById('2610.18790v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
+        <title type="html"><![CDATA[ZONOS3-Mini Technical Report (ArXiv Search)]]></title>
+        <id>https://arxiv.org/abs/2611.16525</id>
+        <link href="https://arxiv.org/abs/2611.16525"/>
+        <updated>2026-11-13T05:09:12.358Z</updated>
+        <content type="html"><![CDATA[ZONOS3-Mini is an ultra-compact, ultra-fast, zero-shot voice-cloning TTS model. The model can run in real time on a laptop or smartphone. For its latency and size, it achieves state-of-the-art accuracy and cloning fidelity. To achieve this we propose a latent MoE backbone with only 886M parameters (100M active per token) and a new audio codec, Zyphra Audio Codec 1 (ZAC-1), which represents 44.1 kH…
+        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2611.16525v1-abstract-full').style.display = 'inline'; document.getElementById('2611.16525v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bytes to Threats: Byte-Sequence Transformer For Malware Detection (ArXiv Search)]]></title>
-        <id>https://arxiv.org/abs/2610.18787</id>
-        <link href="https://arxiv.org/abs/2610.18787"/>
-        <updated>2026-10-14T10:30:08.378Z</updated>
-        <content type="html"><![CDATA[Existing malware detection approaches heavily rely on handcrafted features derived from static or dynamic analysis of the executable files. These methods require specialized domain expertise, dedicated analysis tools, and time-consuming analysis, which limits their scalability and robustness in the face of the increasing complexity and diversity of modern malware. Consequently, there is a growing…
-        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2610.18787v1-abstract-full').style.display = 'inline'; document.getElementById('2610.18787v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
+        <title type="html"><![CDATA[A Joint LLM and Optimization Agent Solution for Drone Scheduling in Victim Search Missions (ArXiv Search)]]></title>
+        <id>https://arxiv.org/abs/2611.16524</id>
+        <link href="https://arxiv.org/abs/2611.16524"/>
+        <updated>2026-11-13T05:09:12.359Z</updated>
+        <content type="html"><![CDATA[Victim search in wilderness areas is time-critical. Drones enable rapid area search, but scheduling them is challenging because victims may continue moving, detection results are uncertain, and effective decisions must combine structured mission information with unstructured contextual clues and domain knowledge. To address this, we propose an agent-aided drone scheduling system. The system employ…
+        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2611.16524v1-abstract-full').style.display = 'inline'; document.getElementById('2611.16524v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Where Do LLM Ensemble Gains Come From? Decomposing Candidate Value, Diversity, and Aggregation (ArXiv Search)]]></title>
-        <id>https://arxiv.org/abs/2610.18786</id>
-        <link href="https://arxiv.org/abs/2610.18786"/>
-        <updated>2026-10-14T10:30:08.380Z</updated>
-        <content type="html"><![CDATA[LLM ensemble gains are often measured against a single baseline, but the value attributed to additional candidates can change with the comparison used. We study an LLM aggregator under four matched conditions: Direct (no candidates), Single-slot (one candidate in a multi-slot interface), Duplicate (one candidate repeated), and Multi-candidate (separately generated candidates). Under either non-div…
-        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2610.18786v1-abstract-full').style.display = 'inline'; document.getElementById('2610.18786v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
+        <title type="html"><![CDATA[RESYNC: Residual Latent-State Synchronization for Deadline-Bound Streaming Inference (ArXiv Search)]]></title>
+        <id>https://arxiv.org/abs/2611.16523</id>
+        <link href="https://arxiv.org/abs/2611.16523"/>
+        <updated>2026-11-13T05:09:12.362Z</updated>
+        <content type="html"><![CDATA[Predicting every observation in a high-rate stream requires a model to finish before the next arrival. A large model may offer better predictions but miss that deadline. We propose RESYNC: the large model runs asynchronously, while a fast path updates its latest exact but stale latent state using the observations received since that state was computed and applies its unchanged prediction head. The…
+        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2611.16523v1-abstract-full').style.display = 'inline'; document.getElementById('2611.16523v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pack Light, CarryOn: Building Object-Oriented Context for Long-Horizon Agents (ArXiv Search)]]></title>
-        <id>https://arxiv.org/abs/2610.18784</id>
-        <link href="https://arxiv.org/abs/2610.18784"/>
-        <updated>2026-10-14T10:30:08.382Z</updated>
-        <content type="html"><![CDATA[Long-horizon agents accumulate progress in persistent task state, yet repeatedly process interaction histories describing how that progress was achieved. This raises a natural question: can long-horizon context instead be organized around reusable progress rather than the history that produced it? In this paper, we introduce CarryOn, an object-oriented context runtime that organizes continuation a…
-        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2610.18784v1-abstract-full').style.display = 'inline'; document.getElementById('2610.18784v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
+        <title type="html"><![CDATA[PISim: A Unified Photonic Inference Simulator for Hardware-Aware Cross-Layer Design-Space Exploration (ArXiv Search)]]></title>
+        <id>https://arxiv.org/abs/2611.16522</id>
+        <link href="https://arxiv.org/abs/2611.16522"/>
+        <updated>2026-11-13T05:09:12.363Z</updated>
+        <content type="html"><![CDATA[Photonic neural accelerators offer ultra-low latency linear algebra, yet their usable numerical precision, sustainable throughput, and application accuracy remain tightly bounded by surrounding electro-optical interfaces and physical non-idealities. Pre-fabrication design-space exploration (DSE) requires a cross-layer electronic design automation (EDA) framework capable of evaluating disparate opt…
+        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2611.16522v1-abstract-full').style.display = 'inline'; document.getElementById('2611.16522v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BLADE: Auditing Information Use for Failure Attribution in LLM Multi-Agent Systems (ArXiv Search)]]></title>
-        <id>https://arxiv.org/abs/2610.18780</id>
-        <link href="https://arxiv.org/abs/2610.18780"/>
-        <updated>2026-10-14T10:30:08.384Z</updated>
-        <content type="html"><![CDATA[Large language model multi-agent systems extend individual agents' capabilities through collaboration across specialized roles, tools, and workflows. Yet collaboration makes failures harder to diagnose: one agent may misinterpret a correct result while others carry the mistake forward. Failure attribution therefore seeks to identify the responsible agent and decisive error step. Recent methods tra…
-        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2610.18780v1-abstract-full').style.display = 'inline'; document.getElementById('2610.18780v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
+        <title type="html"><![CDATA[Input-output characterization of robotic grasping: Connecting design parameters to grasp behavior through the admittance (ArXiv Search)]]></title>
+        <id>https://arxiv.org/abs/2611.16507</id>
+        <link href="https://arxiv.org/abs/2611.16507"/>
+        <updated>2026-11-13T05:09:12.364Z</updated>
+        <content type="html"><![CDATA[Low-impedance grippers make the dynamics of a grasp matter. Current grasp metrics, however, are static: they describe how a held object resists constant loads, not how it responds to time-varying ones. To quantify this, we rely on small-signal analysis to characterize a grasp by its admittance, the transfer matrix relating load perturbations to object displacements around an equilibrium. This tran…
+        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2611.16507v1-abstract-full').style.display = 'inline'; document.getElementById('2611.16507v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GreenWAM: A World Foundation Model for Robotics (ArXiv Search)]]></title>
-        <id>https://arxiv.org/abs/2610.18774</id>
-        <link href="https://arxiv.org/abs/2610.18774"/>
-        <updated>2026-10-14T10:30:08.385Z</updated>
-        <content type="html"><![CDATA[A <span class="search-hit mathjax">robot</span> needs a world model that predicts how its actions will change the scene and a policy that chooses those actions. Models are usually built and evaluated for only one of these roles, and every…
-        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2610.18774v1-abstract-full').style.display = 'inline'; document.getElementById('2610.18774v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
+        <title type="html"><![CDATA[SignRot: LLM Quantization with Massive Outlier-Aware Sign-Adjusted Rotation (ArXiv Search)]]></title>
+        <id>https://arxiv.org/abs/2611.16502</id>
+        <link href="https://arxiv.org/abs/2611.16502"/>
+        <updated>2026-11-13T05:09:12.365Z</updated>
+        <content type="html"><![CDATA[While quantization compresses LLMs and accelerates inference, outlier activations impede efficient low-bit representation. In particular, massive outliers cause substantial performance degradation. Although rotation-based methods that rely on randomized Hadamard transforms for online inference aim to mitigate this, they can produce fragmented distributions with empty bins when a massive outlier do…
+        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2611.16502v1-abstract-full').style.display = 'inline'; document.getElementById('2611.16502v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jeva: System One Models from First Principles (ArXiv Search)]]></title>
-        <id>https://arxiv.org/abs/2610.18773</id>
-        <link href="https://arxiv.org/abs/2610.18773"/>
-        <updated>2026-10-14T10:30:08.387Z</updated>
-        <content type="html"><![CDATA[System one models enable direct, low-latency decision-making. Yet recent practice of predicting an answer from serialized text does not, by itself, respect the structure of a decision problem. We argue that current designs underemphasize four important structural requirements. (i) null-aware: Models should distinguish answer absence from uncertainty among candidates; (ii) permutation-invariant: Re…
-        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2610.18773v1-abstract-full').style.display = 'inline'; document.getElementById('2610.18773v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
+        <title type="html"><![CDATA[Recalibrating a Typed-Decision Model in an Afternoon: A Hands-On Recipe for Laya's Confidence Scores (ArXiv Search)]]></title>
+        <id>https://arxiv.org/abs/2611.16499</id>
+        <link href="https://arxiv.org/abs/2611.16499"/>
+        <updated>2026-11-13T05:09:12.366Z</updated>
+        <content type="html"><![CDATA[A typed-decision model such as Laya reads a text and a list of options that the caller defines, for example ticket categories, and returns a probability for each option. Code around it compares the top probability with a threshold to answer, abstain or escalate to a person. Earlier work reports, for a Turkish model, that temperature scaling can raise held-out calibration error (ECE). This tutorial…
+        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2611.16499v1-abstract-full').style.display = 'inline'; document.getElementById('2611.16499v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Human-AI Interaction Leaves Behind: Residual Human States -- A Trajectory-Based Framework and Multi-Study Analysis (ArXiv Search)]]></title>
-        <id>https://arxiv.org/abs/2610.18765</id>
-        <link href="https://arxiv.org/abs/2610.18765"/>
-        <updated>2026-10-14T10:30:08.388Z</updated>
-        <content type="html"><![CDATA[Human-<span class="search-hit mathjax">AI</span> Interaction is commonly evaluated by what an…
-        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2610.18765v1-abstract-full').style.display = 'inline'; document.getElementById('2610.18765v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
+        <title type="html"><![CDATA[How many LLM-labelled rows does a decision encoder need, and how wrong can the labels be? (ArXiv Search)]]></title>
+        <id>https://arxiv.org/abs/2611.16498</id>
+        <link href="https://arxiv.org/abs/2611.16498"/>
+        <updated>2026-11-13T05:09:12.367Z</updated>
+        <content type="html"><![CDATA[A decision encoder such as Laya reads a question with named options (for example, which department should handle a ticket) and a text, and picks an option. It reads both in one forward pass and returns a probability for every option, without writing any text. We ask how many LLM-written training rows such an encoder needs and how wrong those labels may be. We ran 19 fine-tunes of Laya (ModernBERT-…
+        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2611.16498v1-abstract-full').style.display = 'inline'; document.getElementById('2611.16498v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LayerCanvas: Infographic Generation in AI Learning Assistants via Hybrid Layer-Set Diffusion (ArXiv Search)]]></title>
-        <id>https://arxiv.org/abs/2610.18763</id>
-        <link href="https://arxiv.org/abs/2610.18763"/>
-        <updated>2026-10-14T10:30:08.391Z</updated>
-        <content type="html"><![CDATA[Online learning platforms are increasingly deploying <span class="search-hit mathjax">AI</span> assistants to provide personalized, on-demand tutoring. These can leverage infographics to communicate complex information and improve the learning experience. However, automating effective infographic generation remains a challenging task, requiring a combination of visual richness with precise typogra…
-        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2610.18763v1-abstract-full').style.display = 'inline'; document.getElementById('2610.18763v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
+        <title type="html"><![CDATA[ReA-Bench: Benchmarking Responsible Agent Auditing (ArXiv Search)]]></title>
+        <id>https://arxiv.org/abs/2611.16493</id>
+        <link href="https://arxiv.org/abs/2611.16493"/>
+        <updated>2026-11-13T05:09:12.368Z</updated>
+        <content type="html"><![CDATA[As agents perform tasks autonomously in local and cloud environments, auditing their execution trajectories can help service providers identify risks and improve agent harnesses and foundation models. Our analysis of production and red-team trajectories shows that some risks are repeatedly missed across auditing configurations. Overall recall obscures which risks are missed and whether higher reca…
+        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2611.16493v1-abstract-full').style.display = 'inline'; document.getElementById('2611.16493v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Beyond the Verdict: Agentic Code Judging with Verifiable Feedback (ArXiv Search)]]></title>
-        <id>https://arxiv.org/abs/2610.18760</id>
-        <link href="https://arxiv.org/abs/2610.18760"/>
-        <updated>2026-10-14T10:30:08.393Z</updated>
-        <content type="html"><![CDATA[Test-time scaling for large language models (LLMs) can involve generating multiple candidate solutions for selection or revising an earlier attempt. To guide selection and revision, we need a verifier that can estimate candidate correctness and provide evidence of failure. In competitive programming, however, official judging systems provide authoritative verdicts under finite submission budgets,…
-        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2610.18760v1-abstract-full').style.display = 'inline'; document.getElementById('2610.18760v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
+        <title type="html"><![CDATA[Time and Space: A Dual-Axis, Evidence-Grounded Context Substrate for Personal Agents (ArXiv Search)]]></title>
+        <id>https://arxiv.org/abs/2611.16492</id>
+        <link href="https://arxiv.org/abs/2611.16492"/>
+        <updated>2026-11-13T05:09:12.369Z</updated>
+        <content type="html"><![CDATA[We argue that a binding constraint for personal agents is not model capacity but the form in which context is represented: the agent does not know which entity a phrase denotes, when a fact held, or which source record licenses a claim. We call the missing representation spatio-temporal context (STC) and define it on two axes. The temporal axis carries event time, validity intervals and ingestion…
+        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2611.16492v1-abstract-full').style.display = 'inline'; document.getElementById('2611.16492v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PreciseCoder: Faithful and Generalizable Debugging Beyond Unit-Test Rewards (ArXiv Search)]]></title>
-        <id>https://arxiv.org/abs/2610.18755</id>
-        <link href="https://arxiv.org/abs/2610.18755"/>
-        <updated>2026-10-14T10:30:08.394Z</updated>
-        <content type="html"><![CDATA[Reinforcement learning (RL) from unit tests is the common recipe for post-training code models, but a unit test only asks whether the final program passes. We analyze what this unit-test-only reward teaches a model during debugging and find that, while it raises pass rates, it also teaches the model to edit more and to hallucinate bugs in code that is already correct. We introduce PreciseCoder, a…
-        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2610.18755v1-abstract-full').style.display = 'inline'; document.getElementById('2610.18755v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
+        <title type="html"><![CDATA[HeMeR: Heterogeneous Memory Reconciliation for Embodied Agents via Structured KV Reuse (ArXiv Search)]]></title>
+        <id>https://arxiv.org/abs/2611.16487</id>
+        <link href="https://arxiv.org/abs/2611.16487"/>
+        <updated>2026-11-13T05:09:12.370Z</updated>
+        <content type="html"><![CDATA[…by memory-content updates. This enables efficient and stable inference as memory contents evolve during interaction. We evaluate HeMeR on ALFWorld, Habitat, and real-world <span class="search-hit mathjax">robotic</span> deployments requiring coordinated use of heterogeneous memory contents. In the real-world setting, HeMeR achieves 83.20% task success and reduces per-step inference time from 2.94…
+        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2611.16487v1-abstract-full').style.display = 'inline'; document.getElementById('2611.16487v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SolBehave: Evaluating the Behavioural Correctness of LLM-Generated Smart Contracts (ArXiv Search)]]></title>
-        <id>https://arxiv.org/abs/2610.18745</id>
-        <link href="https://arxiv.org/abs/2610.18745"/>
-        <updated>2026-10-14T10:30:08.396Z</updated>
-        <content type="html"><![CDATA[Large language models increasingly generate Solidity smart contracts that, once deployed, can never be patched, making a single latent fault permanent and exploitable. Yet current evaluations mostly ask only whether generated code compiles. We introduce SolBehave, a benchmark for evaluating the correctness of model-generated contracts at scale, moving beyond ad hoc unit tests. Across 250 real, rep…
-        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2610.18745v1-abstract-full').style.display = 'inline'; document.getElementById('2610.18745v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
+        <title type="html"><![CDATA[Contain, Conform, Compare (Extended Version): A Red-Teamed Evaluation Kit for Small Coding Agents and the Full Record of Its Experiments (ArXiv Search)]]></title>
+        <id>https://arxiv.org/abs/2611.16485</id>
+        <link href="https://arxiv.org/abs/2611.16485"/>
+        <updated>2026-11-13T05:09:12.371Z</updated>
+        <content type="html"><![CDATA[…that compare a local stack's requests with the scorer's configuration, down to rendered tokens; compare provides paired statistics that respect repository clusters. <span class="search-hit mathjax">AI</span> agents built and attacked the kit; a human owner approved machine use and release. This extended version repeats the short paper and adds the full record of the experiments made with a…
+        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2611.16485v1-abstract-full').style.display = 'inline'; document.getElementById('2611.16485v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Rate Transfer Method: Convergence Rates in Stochastic Gradient Descent via Stochastic Calculus (ArXiv Search)]]></title>
-        <id>https://arxiv.org/abs/2610.18739</id>
-        <link href="https://arxiv.org/abs/2610.18739"/>
-        <updated>2026-10-14T10:30:08.398Z</updated>
-        <content type="html"><![CDATA[We develop a rate-transfer method that converts finite-time Lyapunov estimates for an associated stochastic differential equation (SDE) into finite-time convergence bounds for stochastic gradient algorithms. Under generic moment and smoothness conditions, the convergence analysis of the stochastic gradient method reduces to a calculus argument verifying a Lyapunov generator inequality for the SDE.…
-        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2610.18739v1-abstract-full').style.display = 'inline'; document.getElementById('2610.18739v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
+        <title type="html"><![CDATA[TAPES: Terminal Adjoint-Propagated Error Scheduling for Financial Diffusion Samplers (ArXiv Search)]]></title>
+        <id>https://arxiv.org/abs/2611.16484</id>
+        <link href="https://arxiv.org/abs/2611.16484"/>
+        <updated>2026-11-13T05:09:12.372Z</updated>
+        <content type="html"><![CDATA[Financial diffusion samplers are often reused with a small number of function evaluations (NFE) inside scenario and risk pipelines, where numerical time-grid error can distort terminal quantities such as covariances, tails, and drawdown proxies. We study offline grid construction for a frozen probability-flow ODE: the score network, conditioning, Euler solver, report normalization, and deployment…
+        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2611.16484v1-abstract-full').style.display = 'inline'; document.getElementById('2611.16484v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AIRRI: Towards a Human-Readable, Machine-Resistant Reading Interface (ArXiv Search)]]></title>
-        <id>https://arxiv.org/abs/2610.18724</id>
-        <link href="https://arxiv.org/abs/2610.18724"/>
-        <updated>2026-10-14T10:30:08.400Z</updated>
-        <content type="html"><![CDATA[…new challenges for educational assessment by making assignment materials easy to transcribe and solve with minimal human effort. To address this problem, we present AIRRI (<span class="search-hit mathjax">Artificial</span>…
-        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2610.18724v1-abstract-full').style.display = 'inline'; document.getElementById('2610.18724v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
+        <title type="html"><![CDATA[One Model, Two Precisions: Does Disagreement Between Quantized Copies Tell You When a Small Model Is Wrong? (ArXiv Search)]]></title>
+        <id>https://arxiv.org/abs/2611.16478</id>
+        <link href="https://arxiv.org/abs/2611.16478"/>
+        <updated>2026-11-13T05:09:12.373Z</updated>
+        <content type="html"><![CDATA[Local language models often exist at several precisions, and quantization is known to change individual answers. This study asks whether the disagreement between two precisions of the same weights, an 8-bit copy that answers and a lower-precision copy that reads the same prompt, works as a per-question error score for abstention, escalation and re-asking. The cost is one extra forward pass over fe…
+        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2611.16478v1-abstract-full').style.display = 'inline'; document.getElementById('2611.16478v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dynamic Attack Surfaces: A Queue of Branching Processes (ArXiv Search)]]></title>
-        <id>https://arxiv.org/abs/2610.18721</id>
-        <link href="https://arxiv.org/abs/2610.18721"/>
-        <updated>2026-10-14T10:30:08.402Z</updated>
-        <content type="html"><![CDATA[Modern attack surfaces are inherently dynamic. Vulnerabilities emerge over time and they remain exposed to exploit until defenders discover and patch them. <span class="search-hit mathjax">Artificial</span>…
-        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2610.18721v1-abstract-full').style.display = 'inline'; document.getElementById('2610.18721v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
+        <title type="html"><![CDATA[Where in the Input Does a One-Pass Decision Encoder Look? (ArXiv Search)]]></title>
+        <id>https://arxiv.org/abs/2611.16477</id>
+        <link href="https://arxiv.org/abs/2611.16477"/>
+        <updated>2026-11-13T05:09:12.374Z</updated>
+        <content type="html"><![CDATA[Laya is a small model that answers a multiple-choice question about a text in one pass: the question, the options (each with a name and a description) and the text form one sequence of at most 512 tokens, the window, in the English release. A longer text is silently cut at the end, and we measure what that costs. Test documents place a held-out row's text, the evidence, at a chosen token offset am…
+        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2611.16477v1-abstract-full').style.display = 'inline'; document.getElementById('2611.16477v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A proof of the rational exponents conjecture (ArXiv Search)]]></title>
-        <id>https://arxiv.org/abs/2610.18713</id>
-        <link href="https://arxiv.org/abs/2610.18713"/>
-        <updated>2026-10-14T10:30:08.405Z</updated>
-        <content type="html"><![CDATA[…. We present a proof of this conjecture claimed by Epoch <span class="search-hit mathjax">AI</span>, explaining how it builds upon ideas and methods developed by many researchers.
-        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2610.18713v1-abstract-full').style.display = 'inline'; document.getElementById('2610.18713v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
+        <title type="html"><![CDATA[Robots That Talk Too Much and Don't Listen Enough (ArXiv Search)]]></title>
+        <id>https://arxiv.org/abs/2611.16473</id>
+        <link href="https://arxiv.org/abs/2611.16473"/>
+        <updated>2026-11-13T05:09:12.375Z</updated>
+        <content type="html"><![CDATA[Until recently, the biggest obstacles to natural spoken interaction with social <span class="search-hit mathjax">robots</span> were speech recognition errors and turn-taking failures. Advances in speech recognition have enabled much better spoken interaction, but turn-taking failures and other misunderstandings continue to be far too prevalent. This short paper looks back at earlier methods for im…
+        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2611.16473v1-abstract-full').style.display = 'inline'; document.getElementById('2611.16473v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Steertuning Policies from a Few Human Videos (ArXiv Search)]]></title>
-        <id>https://arxiv.org/abs/2610.18711</id>
-        <link href="https://arxiv.org/abs/2610.18711"/>
-        <updated>2026-10-14T10:30:08.406Z</updated>
-        <content type="html"><![CDATA[Current recipes for <span class="search-hit mathjax">robot</span> learning require massive amounts of…
-        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2610.18711v1-abstract-full').style.display = 'inline'; document.getElementById('2610.18711v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
+        <title type="html"><![CDATA[RGB-D SLAM on the Edge: Benchmarking and Profiling RTAB-Map and ORB-SLAM3 on the Raspberry Pi 5 (ArXiv Search)]]></title>
+        <id>https://arxiv.org/abs/2611.16472</id>
+        <link href="https://arxiv.org/abs/2611.16472"/>
+        <updated>2026-11-13T05:09:12.377Z</updated>
+        <content type="html"><![CDATA[Micro aerial vehicles that operate without GPS often run SLAM on ARM-based edge boards, yet there is little published data on how standard RGB-D SLAM systems behave on such hardware. We benchmark RTAB-Map and ORB-SLAM3 on the Raspberry Pi 5 using six TUM RGB-D sequences at three image resolutions, recording tracking coverage, trajectory error, time per frame, memory, CPU load and temperature for e…
+        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2611.16472v1-abstract-full').style.display = 'inline'; document.getElementById('2611.16472v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unlocking Token Rewards via Training-Free Reward Attribution (ArXiv Search)]]></title>
-        <id>https://arxiv.org/abs/2610.18704</id>
-        <link href="https://arxiv.org/abs/2610.18704"/>
-        <updated>2026-10-14T10:30:08.408Z</updated>
-        <content type="html"><![CDATA[In this paper, we propose an extremely efficient, training-free method to extract token-level reward signals directly from an existing deep reward model. Our core idea is to attribute the overall process reward to individual tokens by estimating each token's influence. This influence is defined as the change in the final macroscopic reward (e.g., the process reward) when a token is replaced with a…
-        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2610.18704v1-abstract-full').style.display = 'inline'; document.getElementById('2610.18704v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
+        <title type="html"><![CDATA[Accuracy Is Not Welfare: Evaluating AI Buyers under Strategic Price Complexity in a Synthetic Duopoly (ArXiv Search)]]></title>
+        <id>https://arxiv.org/abs/2611.16471</id>
+        <link href="https://arxiv.org/abs/2611.16471"/>
+        <updated>2026-11-13T05:09:12.378Z</updated>
+        <content type="html"><![CDATA[<span class="search-hit mathjax">AI</span> buying agents may alter sellers' incentives as well as consumers' decisions. In a synthetic duopoly, we evaluate price-comparison pipelines on a fixed menu and in empirical correlated-equilibrium games. Calculator assistance selects an optimal offer 84.00% of the time, versus 68.57% under verified-total disclosure, yet disclosure has a 20.14-unit…
+        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2611.16471v1-abstract-full').style.display = 'inline'; document.getElementById('2611.16471v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RoboFQE: Rollout-Free Evaluation of Visual Robot Policies from Offline Trajectories (ArXiv Search)]]></title>
-        <id>https://arxiv.org/abs/2610.18699</id>
-        <link href="https://arxiv.org/abs/2610.18699"/>
-        <updated>2026-10-14T10:30:08.409Z</updated>
-        <content type="html"><![CDATA[Evaluating <span class="search-hit mathjax">robot</span> policies before deployment typically requires producing new trajectories through real-world execution, simulators, or learned world models. These rollout-based approaches impose infrastructure requirements; simulator and world-model evaluators additionally face prediction errors that can compound over the evaluation horizon. In this paper, w…
-        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2610.18699v1-abstract-full').style.display = 'inline'; document.getElementById('2610.18699v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
+        <title type="html"><![CDATA[How Should Planning Agents ReSHAPE Their Search Space? (ArXiv Search)]]></title>
+        <id>https://arxiv.org/abs/2611.16466</id>
+        <link href="https://arxiv.org/abs/2611.16466"/>
+        <updated>2026-11-13T05:09:12.379Z</updated>
+        <content type="html"><![CDATA[Planning agents and benchmarks treat a user's initial specification as fixed. Yet the requests users write exclude plans they would gladly take, since they rarely discover the possible trade-offs they would accept until seeing the options. Agents already revise requests through interaction, but whether this helps planning is unknown. We formalize this step as the ReSHAPE task, which judges a revis…
+        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2611.16466v1-abstract-full').style.display = 'inline'; document.getElementById('2611.16466v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[UniW(A)M: A Unified Mixture-of-Experts Framework for World and World-Action Models (ArXiv Search)]]></title>
-        <id>https://arxiv.org/abs/2610.18697</id>
-        <link href="https://arxiv.org/abs/2610.18697"/>
-        <updated>2026-10-14T10:30:08.411Z</updated>
-        <content type="html"><![CDATA[World models (WMs) and world-action models (WAMs) focus on future world prediction and executable action generation, respectively. Although these models learn shared physical dynamics and interaction semantics from embodied trajectories, they are typically trained in isolation, which restricts knowledge reuse between prediction and control. The central challenge is therefore to develop a unified l…
-        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2610.18697v1-abstract-full').style.display = 'inline'; document.getElementById('2610.18697v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
+        <title type="html"><![CDATA[From State of THE ART to Human Prediction Algorithms (ArXiv Search)]]></title>
+        <id>https://arxiv.org/abs/2611.16464</id>
+        <link href="https://arxiv.org/abs/2611.16464"/>
+        <updated>2026-11-13T05:09:12.380Z</updated>
+        <content type="html"><![CDATA[Human curiosity and longing for the future have driven human progress from ancient times to the present. With the advancement of <span class="search-hit mathjax">AI</span> technology, human prediction algorithms have also drawn increasing attention from researchers. However, as…
+        <a class="is-size-7" style="white-space: nowrap;" onclick="document.getElementById('2611.16464v1-abstract-full').style.display = 'inline'; document.getElementById('2611.16464v1-abstract-short').style.display = 'none';">▽ More</a>]]></content>
     </entry>
 </feed>
